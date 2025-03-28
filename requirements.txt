@@ -2,7 +2,3 @@ streamlit
 pandas
 folium
 streamlit-folium
-datetime
-random
-streamlit
-
