@@ -1,0 +1,1001 @@
+Date,Time,Location,Traffic Density,Weather Condition,Temperature (°C),Alternate Route Available,Latitude,Longitude,Estimated Delay (Minutes)
+2025-03-17,17:46:24,Tambaram,Medium,Rainy,30.4,Yes,12.9245,80.127,5
+2025-03-17,17:59:24,Kodambakkam,Medium,Sunny,35.4,No,13.0528,80.2296,8
+2025-03-17,18:23:24,Porur,Low,Stormy,29.0,No,13.0359,80.1583,1
+2025-03-17,18:33:24,Kodambakkam,Low,Foggy,28.9,No,13.0528,80.2296,0
+2025-03-17,18:56:24,Velachery,Low,Cloudy,39.4,Yes,12.9766,80.2183,1
+2025-03-17,19:10:24,Sholinganallur,Low,Foggy,33.3,No,12.8985,80.2273,0
+2025-03-17,19:36:24,Tambaram,High,Foggy,26.5,Yes,12.9245,80.127,19
+2025-03-17,19:57:24,Tambaram,Low,Stormy,28.7,No,12.9245,80.127,1
+2025-03-17,20:17:24,Mylapore,Medium,Cloudy,35.8,No,13.0325,80.2684,14
+2025-03-17,20:32:24,Adyar,Low,Cloudy,37.2,No,13.0067,80.2554,1
+2025-03-17,20:40:24,Kodambakkam,Medium,Cloudy,31.8,No,13.0528,80.2296,6
+2025-03-17,20:48:24,Adyar,High,Rainy,26.6,Yes,13.0067,80.2554,40
+2025-03-17,20:59:24,Velachery,Medium,Cloudy,26.1,Yes,12.9766,80.2183,15
+2025-03-17,21:28:24,Mylapore,High,Cloudy,29.9,Yes,13.0325,80.2684,20
+2025-03-17,21:41:24,Mylapore,Medium,Rainy,37.4,No,13.0325,80.2684,11
+2025-03-17,21:58:24,Tambaram,Low,Rainy,37.0,No,12.9245,80.127,2
+2025-03-17,22:24:24,Adyar,High,Cloudy,27.2,Yes,13.0067,80.2554,45
+2025-03-17,22:37:24,Mylapore,Low,Cloudy,27.7,Yes,13.0325,80.2684,4
+2025-03-17,23:02:24,Guindy,High,Sunny,29.9,Yes,13.0079,80.2209,30
+2025-03-17,23:27:24,Mylapore,High,Cloudy,39.1,Yes,13.0325,80.2684,17
+2025-03-17,23:37:24,Mylapore,Medium,Rainy,32.4,Yes,13.0325,80.2684,13
+2025-03-18,00:01:24,Kodambakkam,Low,Rainy,35.5,Yes,13.0528,80.2296,1
+2025-03-18,00:15:24,Velachery,Medium,Foggy,35.8,No,12.9766,80.2183,15
+2025-03-18,00:33:24,Velachery,High,Cloudy,33.6,Yes,12.9766,80.2183,31
+2025-03-18,01:01:24,Kodambakkam,High,Cloudy,28.5,Yes,13.0528,80.2296,20
+2025-03-18,01:14:24,Sholinganallur,Low,Foggy,26.4,Yes,12.8985,80.2273,0
+2025-03-18,01:29:24,Mylapore,Medium,Rainy,31.1,No,13.0325,80.2684,14
+2025-03-18,01:47:24,Anna Nagar,Medium,Rainy,28.2,No,13.0853,80.2103,10
+2025-03-18,02:06:24,Adyar,Low,Rainy,33.4,Yes,13.0067,80.2554,3
+2025-03-18,02:25:24,Mylapore,Medium,Stormy,34.0,No,13.0325,80.2684,8
+2025-03-18,02:47:24,T. Nagar,Medium,Rainy,30.4,No,13.0402,80.2337,14
+2025-03-18,03:08:24,Anna Nagar,High,Rainy,37.1,Yes,13.0853,80.2103,36
+2025-03-18,03:32:24,Anna Nagar,High,Foggy,37.0,Yes,13.0853,80.2103,42
+2025-03-18,03:41:24,Anna Nagar,Medium,Cloudy,31.0,Yes,13.0853,80.2103,12
+2025-03-18,03:50:24,Guindy,Low,Foggy,39.9,No,13.0079,80.2209,3
+2025-03-18,03:56:24,Porur,Low,Stormy,35.6,Yes,13.0359,80.1583,3
+2025-03-18,04:22:24,Velachery,Low,Rainy,34.1,Yes,12.9766,80.2183,1
+2025-03-18,04:38:24,Guindy,High,Cloudy,37.9,Yes,13.0079,80.2209,41
+2025-03-18,04:57:24,Porur,Medium,Cloudy,29.1,Yes,13.0359,80.1583,5
+2025-03-18,05:07:24,Anna Nagar,High,Rainy,31.0,Yes,13.0853,80.2103,15
+2025-03-18,05:23:24,Tambaram,Low,Foggy,37.9,No,12.9245,80.127,0
+2025-03-18,05:30:24,Anna Nagar,Low,Stormy,32.1,Yes,13.0853,80.2103,5
+2025-03-18,05:39:24,Anna Nagar,High,Sunny,28.6,Yes,13.0853,80.2103,33
+2025-03-18,05:54:24,Guindy,Low,Rainy,31.9,Yes,13.0079,80.2209,4
+2025-03-18,06:13:24,Tambaram,High,Foggy,28.5,Yes,12.9245,80.127,40
+2025-03-18,06:40:24,Mylapore,Low,Sunny,36.8,No,13.0325,80.2684,2
+2025-03-18,07:05:24,Tambaram,Low,Foggy,30.4,Yes,12.9245,80.127,5
+2025-03-18,07:25:24,Guindy,Low,Cloudy,34.4,Yes,13.0079,80.2209,5
+2025-03-18,07:43:24,Adyar,Low,Sunny,38.9,No,13.0067,80.2554,4
+2025-03-18,08:03:24,Anna Nagar,High,Foggy,39.7,Yes,13.0853,80.2103,28
+2025-03-18,08:13:24,Sholinganallur,High,Foggy,36.8,Yes,12.8985,80.2273,33
+2025-03-18,08:41:24,Porur,High,Foggy,28.9,Yes,13.0359,80.1583,39
+2025-03-18,09:09:24,Velachery,High,Stormy,32.5,Yes,12.9766,80.2183,33
+2025-03-18,09:14:24,Guindy,Low,Rainy,29.1,Yes,13.0079,80.2209,5
+2025-03-18,09:24:24,Mylapore,High,Foggy,31.9,Yes,13.0325,80.2684,15
+2025-03-18,09:34:24,Tambaram,Medium,Sunny,31.8,Yes,12.9245,80.127,11
+2025-03-18,09:53:24,Porur,Low,Sunny,36.9,No,13.0359,80.1583,3
+2025-03-18,10:18:24,Anna Nagar,High,Cloudy,39.6,Yes,13.0853,80.2103,20
+2025-03-18,10:25:24,Sholinganallur,High,Cloudy,38.1,Yes,12.8985,80.2273,38
+2025-03-18,10:53:24,Porur,Medium,Rainy,30.7,No,13.0359,80.1583,7
+2025-03-18,11:03:24,Tambaram,Medium,Foggy,27.8,No,12.9245,80.127,10
+2025-03-18,11:19:24,Anna Nagar,High,Stormy,33.0,Yes,13.0853,80.2103,36
+2025-03-18,11:27:24,Porur,Medium,Stormy,27.0,Yes,13.0359,80.1583,15
+2025-03-18,11:32:24,Guindy,Low,Cloudy,34.8,No,13.0079,80.2209,5
+2025-03-18,11:37:24,Anna Nagar,High,Cloudy,29.3,Yes,13.0853,80.2103,45
+2025-03-18,11:46:24,Tambaram,Medium,Rainy,38.8,Yes,12.9245,80.127,9
+2025-03-18,12:07:24,Kodambakkam,Medium,Foggy,27.9,Yes,13.0528,80.2296,7
+2025-03-18,12:28:24,Anna Nagar,High,Stormy,35.2,Yes,13.0853,80.2103,30
+2025-03-18,12:58:24,Adyar,Low,Cloudy,38.7,No,13.0067,80.2554,3
+2025-03-18,13:21:24,Sholinganallur,High,Cloudy,29.4,Yes,12.8985,80.2273,39
+2025-03-18,13:29:24,Anna Nagar,Medium,Rainy,34.5,Yes,13.0853,80.2103,14
+2025-03-18,13:52:24,Kodambakkam,High,Stormy,39.5,Yes,13.0528,80.2296,41
+2025-03-18,14:13:24,Adyar,Low,Sunny,37.7,No,13.0067,80.2554,5
+2025-03-18,14:20:24,Anna Nagar,Low,Sunny,36.9,No,13.0853,80.2103,5
+2025-03-18,14:35:24,Sholinganallur,Medium,Stormy,34.2,No,12.8985,80.2273,8
+2025-03-18,14:52:24,Guindy,Medium,Stormy,31.4,Yes,13.0079,80.2209,10
+2025-03-18,15:13:24,Sholinganallur,Medium,Foggy,28.0,No,12.8985,80.2273,7
+2025-03-18,15:23:24,Adyar,Medium,Foggy,29.7,Yes,13.0067,80.2554,9
+2025-03-18,15:43:24,Velachery,Low,Stormy,26.7,Yes,12.9766,80.2183,5
+2025-03-18,15:58:24,Guindy,Low,Rainy,35.0,Yes,13.0079,80.2209,5
+2025-03-18,16:22:24,Tambaram,Medium,Foggy,28.0,No,12.9245,80.127,9
+2025-03-18,16:51:24,Kodambakkam,Low,Foggy,38.1,No,13.0528,80.2296,3
+2025-03-18,17:16:24,Adyar,Medium,Rainy,31.3,No,13.0067,80.2554,12
+2025-03-18,17:34:24,Anna Nagar,High,Foggy,36.2,Yes,13.0853,80.2103,24
+2025-03-18,17:44:24,Velachery,Low,Cloudy,32.0,No,12.9766,80.2183,0
+2025-03-18,17:49:24,Mylapore,High,Rainy,34.8,Yes,13.0325,80.2684,27
+2025-03-18,17:54:24,T. Nagar,Medium,Sunny,26.8,No,13.0402,80.2337,7
+2025-03-18,18:11:24,Guindy,Low,Foggy,39.9,No,13.0079,80.2209,5
+2025-03-18,18:27:24,Velachery,High,Rainy,37.6,Yes,12.9766,80.2183,44
+2025-03-18,18:37:24,Velachery,High,Rainy,32.3,Yes,12.9766,80.2183,21
+2025-03-18,18:56:24,Sholinganallur,High,Cloudy,29.3,Yes,12.8985,80.2273,40
+2025-03-18,19:09:24,Adyar,Medium,Rainy,29.4,Yes,13.0067,80.2554,14
+2025-03-18,19:23:24,Tambaram,High,Rainy,30.1,Yes,12.9245,80.127,24
+2025-03-18,19:53:24,Tambaram,High,Sunny,27.2,Yes,12.9245,80.127,35
+2025-03-18,20:10:24,Porur,Low,Sunny,33.1,No,13.0359,80.1583,2
+2025-03-18,20:26:24,Porur,Medium,Stormy,25.8,Yes,13.0359,80.1583,7
+2025-03-18,20:33:24,Velachery,Low,Sunny,32.4,Yes,12.9766,80.2183,0
+2025-03-18,20:41:24,T. Nagar,Low,Cloudy,31.1,No,13.0402,80.2337,3
+2025-03-18,21:01:24,Adyar,Low,Cloudy,27.4,Yes,13.0067,80.2554,4
+2025-03-18,21:14:24,Porur,High,Cloudy,28.2,Yes,13.0359,80.1583,39
+2025-03-18,21:25:24,Tambaram,Medium,Foggy,35.2,Yes,12.9245,80.127,15
+2025-03-18,21:46:24,Velachery,Medium,Foggy,36.1,Yes,12.9766,80.2183,13
+2025-03-18,22:10:24,Sholinganallur,Medium,Rainy,38.7,Yes,12.8985,80.2273,14
+2025-03-18,22:26:24,Guindy,High,Sunny,32.0,Yes,13.0079,80.2209,28
+2025-03-18,22:44:24,Anna Nagar,Medium,Stormy,28.0,Yes,13.0853,80.2103,5
+2025-03-18,23:07:24,T. Nagar,High,Cloudy,29.0,Yes,13.0402,80.2337,35
+2025-03-18,23:35:24,Guindy,Low,Sunny,27.7,Yes,13.0079,80.2209,0
+2025-03-18,23:48:24,Kodambakkam,Medium,Sunny,36.6,No,13.0528,80.2296,8
+2025-03-19,00:10:24,T. Nagar,High,Stormy,30.9,Yes,13.0402,80.2337,24
+2025-03-19,00:31:24,Mylapore,Medium,Rainy,26.2,No,13.0325,80.2684,14
+2025-03-19,00:42:24,Anna Nagar,Medium,Foggy,38.0,Yes,13.0853,80.2103,14
+2025-03-19,00:49:24,Velachery,Medium,Rainy,37.8,No,12.9766,80.2183,6
+2025-03-19,01:02:24,Adyar,High,Foggy,30.9,Yes,13.0067,80.2554,28
+2025-03-19,01:25:24,Adyar,Medium,Stormy,26.6,No,13.0067,80.2554,5
+2025-03-19,01:42:24,Velachery,High,Rainy,33.3,Yes,12.9766,80.2183,43
+2025-03-19,01:53:24,Velachery,Medium,Foggy,39.7,Yes,12.9766,80.2183,7
+2025-03-19,02:16:24,T. Nagar,High,Rainy,36.1,Yes,13.0402,80.2337,30
+2025-03-19,02:22:24,Guindy,Low,Sunny,29.0,Yes,13.0079,80.2209,2
+2025-03-19,02:36:24,Mylapore,Medium,Foggy,37.9,No,13.0325,80.2684,12
+2025-03-19,02:56:24,Mylapore,Medium,Cloudy,32.6,No,13.0325,80.2684,9
+2025-03-19,03:24:24,Anna Nagar,High,Rainy,39.3,Yes,13.0853,80.2103,17
+2025-03-19,03:35:24,Sholinganallur,Medium,Rainy,25.8,No,12.8985,80.2273,5
+2025-03-19,04:02:24,Mylapore,High,Stormy,32.9,Yes,13.0325,80.2684,21
+2025-03-19,04:22:24,Porur,Medium,Stormy,35.8,No,13.0359,80.1583,9
+2025-03-19,04:41:24,Sholinganallur,Low,Cloudy,34.0,No,12.8985,80.2273,3
+2025-03-19,04:51:24,Guindy,Low,Cloudy,34.8,Yes,13.0079,80.2209,2
+2025-03-19,05:01:24,Velachery,High,Sunny,38.8,Yes,12.9766,80.2183,21
+2025-03-19,05:28:24,Adyar,Medium,Rainy,32.6,Yes,13.0067,80.2554,7
+2025-03-19,05:58:24,Tambaram,Medium,Rainy,39.5,No,12.9245,80.127,8
+2025-03-19,06:04:24,Sholinganallur,Low,Foggy,36.5,No,12.8985,80.2273,0
+2025-03-19,06:19:24,Guindy,Medium,Stormy,37.5,No,13.0079,80.2209,12
+2025-03-19,06:35:24,Anna Nagar,Low,Rainy,27.2,No,13.0853,80.2103,2
+2025-03-19,07:03:24,Mylapore,High,Cloudy,36.7,Yes,13.0325,80.2684,39
+2025-03-19,07:14:24,Tambaram,Medium,Stormy,25.6,No,12.9245,80.127,9
+2025-03-19,07:29:24,Guindy,Low,Sunny,31.8,Yes,13.0079,80.2209,2
+2025-03-19,07:56:24,Porur,High,Stormy,31.4,Yes,13.0359,80.1583,32
+2025-03-19,08:10:24,Guindy,High,Rainy,28.8,Yes,13.0079,80.2209,31
+2025-03-19,08:26:24,Mylapore,Low,Stormy,28.6,No,13.0325,80.2684,2
+2025-03-19,08:38:24,Porur,Low,Rainy,33.9,No,13.0359,80.1583,3
+2025-03-19,09:03:24,Guindy,Low,Foggy,33.7,No,13.0079,80.2209,4
+2025-03-19,09:21:24,T. Nagar,High,Stormy,36.9,Yes,13.0402,80.2337,16
+2025-03-19,09:32:24,Sholinganallur,Medium,Cloudy,26.3,No,12.8985,80.2273,12
+2025-03-19,09:43:24,T. Nagar,High,Stormy,36.6,Yes,13.0402,80.2337,36
+2025-03-19,10:13:24,Anna Nagar,Medium,Sunny,32.6,Yes,13.0853,80.2103,6
+2025-03-19,10:41:24,Velachery,High,Stormy,29.6,Yes,12.9766,80.2183,28
+2025-03-19,10:48:24,Tambaram,Medium,Sunny,25.3,Yes,12.9245,80.127,8
+2025-03-19,11:01:24,Porur,High,Rainy,33.5,Yes,13.0359,80.1583,16
+2025-03-19,11:18:24,Velachery,High,Stormy,33.1,Yes,12.9766,80.2183,31
+2025-03-19,11:48:24,Mylapore,Low,Cloudy,27.9,Yes,13.0325,80.2684,5
+2025-03-19,11:58:24,Anna Nagar,Low,Cloudy,27.1,Yes,13.0853,80.2103,3
+2025-03-19,12:27:24,Adyar,High,Cloudy,25.6,Yes,13.0067,80.2554,24
+2025-03-19,12:55:24,T. Nagar,Medium,Foggy,25.9,Yes,13.0402,80.2337,5
+2025-03-19,13:04:24,T. Nagar,Medium,Sunny,30.2,Yes,13.0402,80.2337,6
+2025-03-19,13:16:24,Anna Nagar,Medium,Sunny,25.0,Yes,13.0853,80.2103,15
+2025-03-19,13:24:24,Mylapore,Medium,Foggy,26.0,No,13.0325,80.2684,10
+2025-03-19,13:54:24,Porur,High,Foggy,25.3,Yes,13.0359,80.1583,39
+2025-03-19,14:09:24,Sholinganallur,Low,Foggy,32.5,Yes,12.8985,80.2273,4
+2025-03-19,14:18:24,Mylapore,High,Cloudy,27.5,Yes,13.0325,80.2684,23
+2025-03-19,14:27:24,Anna Nagar,High,Rainy,27.7,Yes,13.0853,80.2103,22
+2025-03-19,14:39:24,Anna Nagar,Medium,Cloudy,31.8,Yes,13.0853,80.2103,6
+2025-03-19,14:47:24,Adyar,Low,Stormy,27.2,Yes,13.0067,80.2554,2
+2025-03-19,14:53:24,Anna Nagar,High,Stormy,28.5,Yes,13.0853,80.2103,41
+2025-03-19,15:03:24,T. Nagar,Medium,Rainy,40.0,Yes,13.0402,80.2337,13
+2025-03-19,15:16:24,Sholinganallur,Low,Foggy,28.5,Yes,12.8985,80.2273,1
+2025-03-19,15:27:24,Mylapore,Low,Foggy,39.4,Yes,13.0325,80.2684,1
+2025-03-19,15:41:24,Adyar,Low,Cloudy,28.2,No,13.0067,80.2554,1
+2025-03-19,15:46:24,T. Nagar,Low,Cloudy,26.7,No,13.0402,80.2337,1
+2025-03-19,16:07:24,Tambaram,Medium,Stormy,33.5,No,12.9245,80.127,12
+2025-03-19,16:15:24,Velachery,High,Foggy,26.8,Yes,12.9766,80.2183,18
+2025-03-19,16:41:24,Sholinganallur,High,Stormy,35.4,Yes,12.8985,80.2273,39
+2025-03-19,17:10:24,Porur,Low,Sunny,39.5,Yes,13.0359,80.1583,1
+2025-03-19,17:40:24,Tambaram,High,Sunny,28.8,Yes,12.9245,80.127,40
+2025-03-19,17:49:24,Kodambakkam,Medium,Rainy,39.7,No,13.0528,80.2296,9
+2025-03-19,18:02:24,Guindy,Low,Rainy,38.1,Yes,13.0079,80.2209,4
+2025-03-19,18:18:24,Anna Nagar,Low,Foggy,26.4,Yes,13.0853,80.2103,3
+2025-03-19,18:32:24,T. Nagar,High,Stormy,33.3,Yes,13.0402,80.2337,43
+2025-03-19,19:01:24,Tambaram,Medium,Cloudy,26.7,Yes,12.9245,80.127,10
+2025-03-19,19:21:24,Sholinganallur,High,Rainy,39.0,Yes,12.8985,80.2273,18
+2025-03-19,19:47:24,T. Nagar,Low,Stormy,36.7,No,13.0402,80.2337,2
+2025-03-19,19:59:24,Tambaram,Low,Sunny,29.5,Yes,12.9245,80.127,0
+2025-03-19,20:24:24,Guindy,Low,Foggy,38.4,Yes,13.0079,80.2209,3
+2025-03-19,20:35:24,Velachery,High,Sunny,37.6,Yes,12.9766,80.2183,27
+2025-03-19,20:43:24,T. Nagar,Low,Stormy,30.9,No,13.0402,80.2337,0
+2025-03-19,20:49:24,Anna Nagar,Low,Sunny,33.8,No,13.0853,80.2103,0
+2025-03-19,21:10:24,Kodambakkam,Low,Stormy,34.6,Yes,13.0528,80.2296,0
+2025-03-19,21:25:24,Sholinganallur,Low,Cloudy,30.5,No,12.8985,80.2273,3
+2025-03-19,21:37:24,Tambaram,Low,Cloudy,34.3,Yes,12.9245,80.127,1
+2025-03-19,21:42:24,T. Nagar,High,Sunny,33.3,Yes,13.0402,80.2337,41
+2025-03-19,22:07:24,T. Nagar,Medium,Sunny,27.0,Yes,13.0402,80.2337,11
+2025-03-19,22:37:24,Mylapore,High,Stormy,37.4,Yes,13.0325,80.2684,28
+2025-03-19,22:43:24,Velachery,Medium,Rainy,32.8,Yes,12.9766,80.2183,5
+2025-03-19,22:54:24,Kodambakkam,High,Foggy,28.8,Yes,13.0528,80.2296,39
+2025-03-19,23:23:24,Kodambakkam,Medium,Stormy,38.5,No,13.0528,80.2296,6
+2025-03-19,23:44:24,Tambaram,Low,Foggy,35.6,No,12.9245,80.127,5
+2025-03-19,23:52:24,Adyar,Low,Stormy,31.4,No,13.0067,80.2554,2
+2025-03-20,00:16:24,Mylapore,High,Stormy,28.5,Yes,13.0325,80.2684,22
+2025-03-20,00:22:24,Guindy,Low,Sunny,32.3,Yes,13.0079,80.2209,2
+2025-03-20,00:33:24,Mylapore,Low,Sunny,37.2,No,13.0325,80.2684,5
+2025-03-20,00:49:24,Porur,High,Rainy,37.0,Yes,13.0359,80.1583,19
+2025-03-20,00:57:24,Porur,Medium,Foggy,27.2,Yes,13.0359,80.1583,8
+2025-03-20,01:26:24,T. Nagar,Low,Foggy,36.9,No,13.0402,80.2337,4
+2025-03-20,01:54:24,T. Nagar,Medium,Foggy,38.9,No,13.0402,80.2337,10
+2025-03-20,02:15:24,Kodambakkam,Medium,Stormy,31.7,Yes,13.0528,80.2296,15
+2025-03-20,02:37:24,Velachery,High,Stormy,39.1,Yes,12.9766,80.2183,22
+2025-03-20,03:07:24,Guindy,High,Foggy,25.9,Yes,13.0079,80.2209,21
+2025-03-20,03:35:24,Velachery,Medium,Cloudy,25.9,Yes,12.9766,80.2183,11
+2025-03-20,03:54:24,Anna Nagar,High,Foggy,37.9,Yes,13.0853,80.2103,33
+2025-03-20,04:15:24,Sholinganallur,Low,Foggy,31.5,No,12.8985,80.2273,1
+2025-03-20,04:28:24,Adyar,Medium,Cloudy,38.5,No,13.0067,80.2554,13
+2025-03-20,04:55:24,Mylapore,High,Stormy,26.1,Yes,13.0325,80.2684,16
+2025-03-20,05:25:24,Tambaram,High,Stormy,27.8,Yes,12.9245,80.127,35
+2025-03-20,05:32:24,Porur,Low,Rainy,27.7,No,13.0359,80.1583,5
+2025-03-20,06:02:24,Tambaram,Medium,Stormy,35.1,No,12.9245,80.127,13
+2025-03-20,06:12:24,Guindy,High,Sunny,30.3,Yes,13.0079,80.2209,29
+2025-03-20,06:34:24,Porur,High,Sunny,33.0,Yes,13.0359,80.1583,45
+2025-03-20,07:01:24,Guindy,Medium,Rainy,38.1,No,13.0079,80.2209,11
+2025-03-20,07:17:24,Adyar,High,Cloudy,28.0,Yes,13.0067,80.2554,22
+2025-03-20,07:31:24,Anna Nagar,High,Cloudy,35.2,Yes,13.0853,80.2103,21
+2025-03-20,07:50:24,Guindy,High,Foggy,31.6,Yes,13.0079,80.2209,42
+2025-03-20,08:04:24,Guindy,High,Stormy,29.7,Yes,13.0079,80.2209,43
+2025-03-20,08:27:24,Adyar,Low,Cloudy,27.7,No,13.0067,80.2554,0
+2025-03-20,08:49:24,Mylapore,Low,Sunny,29.9,No,13.0325,80.2684,4
+2025-03-20,09:08:24,Anna Nagar,High,Foggy,35.3,Yes,13.0853,80.2103,22
+2025-03-20,09:28:24,Mylapore,Medium,Rainy,36.2,No,13.0325,80.2684,12
+2025-03-20,09:39:24,Guindy,High,Foggy,26.2,Yes,13.0079,80.2209,16
+2025-03-20,10:07:24,Tambaram,Low,Sunny,26.7,Yes,12.9245,80.127,4
+2025-03-20,10:26:24,Mylapore,Medium,Cloudy,29.8,Yes,13.0325,80.2684,15
+2025-03-20,10:45:24,Kodambakkam,Medium,Foggy,32.6,No,13.0528,80.2296,14
+2025-03-20,10:55:24,Sholinganallur,High,Rainy,30.1,Yes,12.8985,80.2273,34
+2025-03-20,11:16:24,Kodambakkam,High,Cloudy,32.0,Yes,13.0528,80.2296,30
+2025-03-20,11:38:24,Velachery,High,Stormy,31.9,Yes,12.9766,80.2183,40
+2025-03-20,11:58:24,Sholinganallur,Low,Cloudy,32.2,No,12.8985,80.2273,1
+2025-03-20,12:10:24,Porur,Medium,Cloudy,30.5,Yes,13.0359,80.1583,5
+2025-03-20,12:33:24,Kodambakkam,High,Cloudy,39.5,Yes,13.0528,80.2296,33
+2025-03-20,12:50:24,Velachery,High,Sunny,27.5,Yes,12.9766,80.2183,22
+2025-03-20,13:00:24,Velachery,High,Stormy,27.4,Yes,12.9766,80.2183,44
+2025-03-20,13:16:24,Mylapore,Low,Foggy,40.0,Yes,13.0325,80.2684,2
+2025-03-20,13:42:24,Sholinganallur,Low,Rainy,39.7,Yes,12.8985,80.2273,0
+2025-03-20,13:56:24,Tambaram,High,Foggy,32.4,Yes,12.9245,80.127,30
+2025-03-20,14:26:24,Anna Nagar,High,Sunny,34.9,Yes,13.0853,80.2103,37
+2025-03-20,14:48:24,Porur,Medium,Rainy,32.3,No,13.0359,80.1583,11
+2025-03-20,15:17:24,Tambaram,Medium,Stormy,28.4,No,12.9245,80.127,8
+2025-03-20,15:42:24,Adyar,Low,Cloudy,34.1,No,13.0067,80.2554,5
+2025-03-20,16:02:24,Mylapore,Medium,Foggy,29.2,No,13.0325,80.2684,9
+2025-03-20,16:13:24,Mylapore,High,Rainy,26.2,Yes,13.0325,80.2684,18
+2025-03-20,16:22:24,Porur,Low,Cloudy,25.6,No,13.0359,80.1583,2
+2025-03-20,16:27:24,Kodambakkam,Low,Rainy,27.4,No,13.0528,80.2296,2
+2025-03-20,16:42:24,Sholinganallur,High,Foggy,32.2,Yes,12.8985,80.2273,30
+2025-03-20,17:06:24,Sholinganallur,Low,Sunny,36.1,No,12.8985,80.2273,1
+2025-03-20,17:35:24,Tambaram,Medium,Stormy,31.0,No,12.9245,80.127,5
+2025-03-20,18:00:24,Mylapore,High,Foggy,27.8,Yes,13.0325,80.2684,42
+2025-03-20,18:14:24,Adyar,High,Foggy,27.8,Yes,13.0067,80.2554,23
+2025-03-20,18:34:24,Adyar,Medium,Cloudy,38.0,No,13.0067,80.2554,6
+2025-03-20,19:04:24,Guindy,Low,Cloudy,29.8,Yes,13.0079,80.2209,5
+2025-03-20,19:17:24,Guindy,High,Foggy,30.5,Yes,13.0079,80.2209,37
+2025-03-20,19:26:24,Tambaram,Medium,Sunny,31.0,Yes,12.9245,80.127,15
+2025-03-20,19:36:24,Sholinganallur,High,Foggy,37.0,Yes,12.8985,80.2273,15
+2025-03-20,19:53:24,Sholinganallur,Medium,Foggy,26.1,No,12.8985,80.2273,10
+2025-03-20,20:01:24,Mylapore,Medium,Cloudy,29.5,Yes,13.0325,80.2684,7
+2025-03-20,20:21:24,Porur,High,Stormy,37.0,Yes,13.0359,80.1583,16
+2025-03-20,20:39:24,Kodambakkam,High,Cloudy,32.9,Yes,13.0528,80.2296,21
+2025-03-20,21:04:24,Mylapore,High,Sunny,35.9,Yes,13.0325,80.2684,15
+2025-03-20,21:30:24,Kodambakkam,High,Cloudy,26.8,Yes,13.0528,80.2296,18
+2025-03-20,21:35:24,Kodambakkam,Medium,Sunny,34.3,Yes,13.0528,80.2296,11
+2025-03-20,21:42:24,Kodambakkam,Medium,Foggy,32.9,Yes,13.0528,80.2296,6
+2025-03-20,21:49:24,Mylapore,High,Stormy,36.8,Yes,13.0325,80.2684,27
+2025-03-20,22:04:24,Guindy,Low,Cloudy,37.5,Yes,13.0079,80.2209,5
+2025-03-20,22:27:24,T. Nagar,Medium,Sunny,35.1,Yes,13.0402,80.2337,8
+2025-03-20,22:45:24,Porur,Medium,Rainy,35.0,Yes,13.0359,80.1583,15
+2025-03-20,22:53:24,Kodambakkam,High,Stormy,29.9,Yes,13.0528,80.2296,43
+2025-03-20,23:21:24,Anna Nagar,Low,Sunny,36.2,Yes,13.0853,80.2103,4
+2025-03-20,23:26:24,Sholinganallur,Medium,Foggy,38.1,Yes,12.8985,80.2273,9
+2025-03-20,23:42:24,Guindy,Medium,Cloudy,30.2,No,13.0079,80.2209,12
+2025-03-21,00:02:24,T. Nagar,Medium,Foggy,34.6,No,13.0402,80.2337,8
+2025-03-21,00:28:24,Velachery,Low,Rainy,28.9,No,12.9766,80.2183,4
+2025-03-21,00:46:24,Sholinganallur,Low,Sunny,34.1,Yes,12.8985,80.2273,0
+2025-03-21,00:56:24,Mylapore,Medium,Rainy,29.0,No,13.0325,80.2684,6
+2025-03-21,01:02:24,Tambaram,Medium,Stormy,26.8,Yes,12.9245,80.127,12
+2025-03-21,01:26:24,Porur,Medium,Foggy,26.5,Yes,13.0359,80.1583,8
+2025-03-21,01:41:24,Guindy,Low,Foggy,32.5,Yes,13.0079,80.2209,4
+2025-03-21,01:50:24,Adyar,Low,Rainy,34.5,No,13.0067,80.2554,1
+2025-03-21,02:00:24,Porur,High,Sunny,39.6,Yes,13.0359,80.1583,16
+2025-03-21,02:09:24,T. Nagar,Medium,Foggy,30.3,No,13.0402,80.2337,7
+2025-03-21,02:37:24,Adyar,Medium,Sunny,32.7,Yes,13.0067,80.2554,6
+2025-03-21,02:42:24,Tambaram,Medium,Rainy,34.9,Yes,12.9245,80.127,7
+2025-03-21,02:51:24,Kodambakkam,Low,Foggy,36.6,Yes,13.0528,80.2296,4
+2025-03-21,03:15:24,Guindy,Low,Stormy,34.3,Yes,13.0079,80.2209,1
+2025-03-21,03:41:24,Mylapore,Medium,Cloudy,27.1,Yes,13.0325,80.2684,11
+2025-03-21,03:46:24,Tambaram,Medium,Stormy,35.6,Yes,12.9245,80.127,15
+2025-03-21,04:02:24,Guindy,High,Stormy,37.7,Yes,13.0079,80.2209,30
+2025-03-21,04:32:24,Mylapore,High,Foggy,33.0,Yes,13.0325,80.2684,28
+2025-03-21,05:02:24,Velachery,Medium,Stormy,34.4,Yes,12.9766,80.2183,9
+2025-03-21,05:09:24,Adyar,High,Rainy,31.6,Yes,13.0067,80.2554,29
+2025-03-21,05:32:24,Velachery,High,Foggy,38.4,Yes,12.9766,80.2183,18
+2025-03-21,06:02:24,Mylapore,Low,Stormy,38.1,Yes,13.0325,80.2684,4
+2025-03-21,06:19:24,Sholinganallur,Medium,Sunny,33.2,Yes,12.8985,80.2273,15
+2025-03-21,06:48:24,Adyar,Medium,Rainy,32.8,No,13.0067,80.2554,15
+2025-03-21,06:59:24,Sholinganallur,High,Rainy,30.6,Yes,12.8985,80.2273,15
+2025-03-21,07:17:24,Porur,Medium,Cloudy,26.6,No,13.0359,80.1583,11
+2025-03-21,07:24:24,Anna Nagar,Medium,Stormy,26.1,No,13.0853,80.2103,14
+2025-03-21,07:47:24,Guindy,Medium,Sunny,31.7,Yes,13.0079,80.2209,9
+2025-03-21,08:07:24,Anna Nagar,High,Foggy,26.4,Yes,13.0853,80.2103,34
+2025-03-21,08:13:24,Porur,Low,Foggy,33.6,No,13.0359,80.1583,5
+2025-03-21,08:23:24,Guindy,High,Cloudy,28.2,Yes,13.0079,80.2209,23
+2025-03-21,08:51:24,Velachery,High,Rainy,34.3,Yes,12.9766,80.2183,44
+2025-03-21,09:20:24,T. Nagar,Medium,Foggy,35.7,Yes,13.0402,80.2337,13
+2025-03-21,09:29:24,Kodambakkam,Medium,Rainy,28.9,Yes,13.0528,80.2296,12
+2025-03-21,09:50:24,Velachery,Medium,Rainy,37.2,Yes,12.9766,80.2183,15
+2025-03-21,10:05:24,T. Nagar,Medium,Stormy,25.5,Yes,13.0402,80.2337,11
+2025-03-21,10:17:24,Tambaram,Medium,Sunny,28.2,No,12.9245,80.127,15
+2025-03-21,10:26:24,Guindy,Low,Cloudy,39.9,Yes,13.0079,80.2209,3
+2025-03-21,10:31:24,Adyar,High,Foggy,31.1,Yes,13.0067,80.2554,35
+2025-03-21,10:46:24,Adyar,Low,Rainy,29.2,No,13.0067,80.2554,2
+2025-03-21,11:06:24,Sholinganallur,Low,Stormy,30.4,Yes,12.8985,80.2273,4
+2025-03-21,11:23:24,Guindy,Medium,Foggy,35.2,No,13.0079,80.2209,13
+2025-03-21,11:53:24,Porur,Medium,Foggy,37.3,Yes,13.0359,80.1583,8
+2025-03-21,12:09:24,Porur,Medium,Rainy,35.6,No,13.0359,80.1583,14
+2025-03-21,12:30:24,Anna Nagar,High,Foggy,36.7,Yes,13.0853,80.2103,29
+2025-03-21,12:50:24,T. Nagar,Medium,Cloudy,26.0,Yes,13.0402,80.2337,8
+2025-03-21,12:57:24,Porur,Low,Rainy,26.5,Yes,13.0359,80.1583,5
+2025-03-21,13:04:24,Sholinganallur,Low,Cloudy,29.2,No,12.8985,80.2273,1
+2025-03-21,13:27:24,T. Nagar,Medium,Rainy,38.9,Yes,13.0402,80.2337,5
+2025-03-21,13:40:24,Anna Nagar,Low,Foggy,26.7,Yes,13.0853,80.2103,0
+2025-03-21,13:46:24,Tambaram,High,Foggy,39.4,Yes,12.9245,80.127,45
+2025-03-21,13:59:24,T. Nagar,Medium,Foggy,26.9,Yes,13.0402,80.2337,9
+2025-03-21,14:16:24,Tambaram,Medium,Stormy,26.9,Yes,12.9245,80.127,10
+2025-03-21,14:27:24,Anna Nagar,Low,Cloudy,30.5,No,13.0853,80.2103,5
+2025-03-21,14:54:24,Anna Nagar,Low,Cloudy,34.0,No,13.0853,80.2103,2
+2025-03-21,15:15:24,Mylapore,Low,Foggy,28.3,Yes,13.0325,80.2684,0
+2025-03-21,15:38:24,Kodambakkam,Medium,Rainy,29.8,Yes,13.0528,80.2296,5
+2025-03-21,15:48:24,Mylapore,Medium,Sunny,28.2,Yes,13.0325,80.2684,5
+2025-03-21,16:02:24,Sholinganallur,Low,Foggy,33.4,No,12.8985,80.2273,5
+2025-03-21,16:32:24,Velachery,Low,Foggy,27.0,No,12.9766,80.2183,2
+2025-03-21,17:01:24,Porur,Low,Stormy,31.4,Yes,13.0359,80.1583,5
+2025-03-21,17:10:24,Tambaram,Medium,Sunny,29.2,No,12.9245,80.127,11
+2025-03-21,17:25:24,Anna Nagar,High,Stormy,33.0,Yes,13.0853,80.2103,16
+2025-03-21,17:55:24,Adyar,Medium,Rainy,32.2,No,13.0067,80.2554,13
+2025-03-21,18:17:24,Tambaram,Low,Rainy,25.6,No,12.9245,80.127,1
+2025-03-21,18:28:24,Anna Nagar,Medium,Rainy,27.4,Yes,13.0853,80.2103,10
+2025-03-21,18:50:24,Guindy,Low,Stormy,31.6,No,13.0079,80.2209,4
+2025-03-21,19:17:24,Kodambakkam,High,Foggy,30.7,Yes,13.0528,80.2296,18
+2025-03-21,19:25:24,Mylapore,Low,Sunny,38.8,Yes,13.0325,80.2684,3
+2025-03-21,19:52:24,Sholinganallur,High,Cloudy,31.4,Yes,12.8985,80.2273,21
+2025-03-21,19:58:24,Velachery,Medium,Rainy,39.1,Yes,12.9766,80.2183,7
+2025-03-21,20:11:24,Sholinganallur,High,Foggy,26.9,Yes,12.8985,80.2273,20
+2025-03-21,20:26:24,Guindy,High,Rainy,30.6,Yes,13.0079,80.2209,22
+2025-03-21,20:49:24,Anna Nagar,High,Foggy,35.0,Yes,13.0853,80.2103,19
+2025-03-21,20:57:24,Mylapore,Medium,Stormy,39.8,Yes,13.0325,80.2684,10
+2025-03-21,21:17:24,Mylapore,High,Rainy,33.2,Yes,13.0325,80.2684,25
+2025-03-21,21:23:24,T. Nagar,Low,Foggy,34.9,No,13.0402,80.2337,0
+2025-03-21,21:39:24,Adyar,Low,Foggy,29.1,Yes,13.0067,80.2554,0
+2025-03-21,22:04:24,T. Nagar,High,Sunny,28.9,Yes,13.0402,80.2337,15
+2025-03-21,22:16:24,T. Nagar,High,Stormy,27.6,Yes,13.0402,80.2337,32
+2025-03-21,22:36:24,Sholinganallur,Low,Foggy,39.9,Yes,12.8985,80.2273,3
+2025-03-21,22:55:24,Porur,Low,Stormy,39.6,No,13.0359,80.1583,5
+2025-03-21,23:02:24,Mylapore,Low,Foggy,37.2,No,13.0325,80.2684,3
+2025-03-21,23:11:24,Anna Nagar,High,Cloudy,29.8,Yes,13.0853,80.2103,36
+2025-03-21,23:16:24,T. Nagar,High,Sunny,28.1,Yes,13.0402,80.2337,25
+2025-03-21,23:46:24,Velachery,Low,Sunny,39.1,Yes,12.9766,80.2183,5
+2025-03-21,23:54:24,Mylapore,High,Cloudy,26.7,Yes,13.0325,80.2684,32
+2025-03-22,00:23:24,Velachery,Medium,Foggy,35.2,No,12.9766,80.2183,7
+2025-03-22,00:31:24,Adyar,Low,Stormy,25.5,No,13.0067,80.2554,2
+2025-03-22,00:46:24,T. Nagar,High,Stormy,34.8,Yes,13.0402,80.2337,36
+2025-03-22,01:07:24,Velachery,Medium,Stormy,29.8,Yes,12.9766,80.2183,9
+2025-03-22,01:19:24,Tambaram,Low,Cloudy,30.2,No,12.9245,80.127,5
+2025-03-22,01:31:24,Adyar,Medium,Stormy,29.0,No,13.0067,80.2554,13
+2025-03-22,01:50:24,Anna Nagar,Low,Rainy,34.5,Yes,13.0853,80.2103,4
+2025-03-22,02:00:24,Guindy,Medium,Sunny,29.6,No,13.0079,80.2209,13
+2025-03-22,02:18:24,T. Nagar,Low,Rainy,26.4,Yes,13.0402,80.2337,4
+2025-03-22,02:48:24,T. Nagar,Medium,Stormy,28.2,Yes,13.0402,80.2337,5
+2025-03-22,03:12:24,Porur,Low,Rainy,32.8,Yes,13.0359,80.1583,3
+2025-03-22,03:39:24,Mylapore,High,Sunny,31.6,Yes,13.0325,80.2684,37
+2025-03-22,03:59:24,Anna Nagar,Medium,Sunny,28.7,Yes,13.0853,80.2103,11
+2025-03-22,04:24:24,Velachery,High,Stormy,27.2,Yes,12.9766,80.2183,15
+2025-03-22,04:50:24,Anna Nagar,High,Stormy,28.2,Yes,13.0853,80.2103,15
+2025-03-22,04:58:24,Kodambakkam,Low,Cloudy,34.0,No,13.0528,80.2296,0
+2025-03-22,05:05:24,Sholinganallur,Medium,Sunny,25.1,Yes,12.8985,80.2273,15
+2025-03-22,05:20:24,T. Nagar,Medium,Rainy,29.5,Yes,13.0402,80.2337,11
+2025-03-22,05:27:24,Velachery,Medium,Stormy,39.6,Yes,12.9766,80.2183,15
+2025-03-22,05:56:24,Velachery,Medium,Rainy,35.5,Yes,12.9766,80.2183,11
+2025-03-22,06:17:24,Sholinganallur,High,Sunny,34.1,Yes,12.8985,80.2273,18
+2025-03-22,06:26:24,Adyar,Low,Cloudy,35.8,Yes,13.0067,80.2554,1
+2025-03-22,06:51:24,Porur,High,Cloudy,34.3,Yes,13.0359,80.1583,35
+2025-03-22,07:08:24,Adyar,Low,Stormy,34.9,No,13.0067,80.2554,4
+2025-03-22,07:21:24,Sholinganallur,Medium,Foggy,33.7,Yes,12.8985,80.2273,12
+2025-03-22,07:47:24,Mylapore,High,Sunny,29.5,Yes,13.0325,80.2684,18
+2025-03-22,08:13:24,Anna Nagar,Medium,Sunny,32.7,Yes,13.0853,80.2103,13
+2025-03-22,08:43:24,Adyar,Low,Cloudy,34.3,Yes,13.0067,80.2554,4
+2025-03-22,09:08:24,Kodambakkam,High,Sunny,27.5,Yes,13.0528,80.2296,31
+2025-03-22,09:22:24,Tambaram,Low,Rainy,28.2,Yes,12.9245,80.127,5
+2025-03-22,09:29:24,Porur,High,Sunny,39.1,Yes,13.0359,80.1583,45
+2025-03-22,09:36:24,T. Nagar,Medium,Stormy,30.7,No,13.0402,80.2337,12
+2025-03-22,09:48:24,T. Nagar,High,Sunny,33.2,Yes,13.0402,80.2337,25
+2025-03-22,10:03:24,Porur,Medium,Rainy,35.0,Yes,13.0359,80.1583,14
+2025-03-22,10:12:24,Porur,High,Sunny,34.0,Yes,13.0359,80.1583,34
+2025-03-22,10:33:24,Anna Nagar,High,Foggy,31.3,Yes,13.0853,80.2103,21
+2025-03-22,10:45:24,Guindy,High,Foggy,32.3,Yes,13.0079,80.2209,27
+2025-03-22,11:07:24,Sholinganallur,High,Foggy,29.2,Yes,12.8985,80.2273,19
+2025-03-22,11:27:24,T. Nagar,Medium,Stormy,39.3,Yes,13.0402,80.2337,15
+2025-03-22,11:48:24,T. Nagar,High,Stormy,28.6,Yes,13.0402,80.2337,20
+2025-03-22,11:58:24,Kodambakkam,High,Stormy,35.4,Yes,13.0528,80.2296,27
+2025-03-22,12:09:24,Porur,Medium,Stormy,27.3,Yes,13.0359,80.1583,13
+2025-03-22,12:25:24,Mylapore,Medium,Stormy,28.4,No,13.0325,80.2684,12
+2025-03-22,12:35:24,Sholinganallur,Low,Stormy,35.0,Yes,12.8985,80.2273,3
+2025-03-22,12:43:24,Sholinganallur,High,Cloudy,37.3,Yes,12.8985,80.2273,15
+2025-03-22,12:52:24,Velachery,High,Rainy,39.6,Yes,12.9766,80.2183,45
+2025-03-22,13:06:24,Porur,Medium,Rainy,29.0,No,13.0359,80.1583,11
+2025-03-22,13:23:24,Tambaram,Low,Cloudy,31.6,Yes,12.9245,80.127,1
+2025-03-22,13:39:24,Velachery,Medium,Stormy,36.0,Yes,12.9766,80.2183,10
+2025-03-22,14:02:24,T. Nagar,High,Foggy,38.7,Yes,13.0402,80.2337,31
+2025-03-22,14:23:24,Mylapore,Medium,Rainy,28.3,No,13.0325,80.2684,12
+2025-03-22,14:29:24,Anna Nagar,High,Foggy,28.5,Yes,13.0853,80.2103,21
+2025-03-22,14:45:24,Anna Nagar,High,Foggy,33.9,Yes,13.0853,80.2103,45
+2025-03-22,15:02:24,Sholinganallur,High,Foggy,29.7,Yes,12.8985,80.2273,16
+2025-03-22,15:21:24,Guindy,Low,Sunny,35.1,No,13.0079,80.2209,1
+2025-03-22,15:48:24,Tambaram,High,Rainy,38.0,Yes,12.9245,80.127,41
+2025-03-22,16:00:24,Velachery,High,Cloudy,30.0,Yes,12.9766,80.2183,27
+2025-03-22,16:21:24,Guindy,Low,Cloudy,26.1,Yes,13.0079,80.2209,3
+2025-03-22,16:47:24,T. Nagar,Low,Stormy,35.0,No,13.0402,80.2337,5
+2025-03-22,16:56:24,Adyar,High,Sunny,31.4,Yes,13.0067,80.2554,32
+2025-03-22,17:18:24,Mylapore,Medium,Foggy,29.8,No,13.0325,80.2684,9
+2025-03-22,17:46:24,Anna Nagar,High,Sunny,36.9,Yes,13.0853,80.2103,15
+2025-03-22,18:06:24,Guindy,Medium,Rainy,38.6,Yes,13.0079,80.2209,13
+2025-03-22,18:21:24,Anna Nagar,High,Cloudy,35.2,Yes,13.0853,80.2103,37
+2025-03-22,18:39:24,Porur,Low,Cloudy,34.5,No,13.0359,80.1583,2
+2025-03-22,18:51:24,Adyar,High,Rainy,36.3,Yes,13.0067,80.2554,16
+2025-03-22,18:57:24,Adyar,Low,Rainy,37.1,Yes,13.0067,80.2554,4
+2025-03-22,19:17:24,Mylapore,High,Cloudy,30.3,Yes,13.0325,80.2684,32
+2025-03-22,19:25:24,Kodambakkam,Medium,Sunny,27.9,No,13.0528,80.2296,11
+2025-03-22,19:46:24,Tambaram,Low,Cloudy,38.4,No,12.9245,80.127,4
+2025-03-22,19:57:24,Mylapore,Medium,Foggy,34.1,Yes,13.0325,80.2684,9
+2025-03-22,20:05:24,Tambaram,Low,Stormy,36.7,Yes,12.9245,80.127,4
+2025-03-22,20:26:24,T. Nagar,Low,Foggy,32.3,Yes,13.0402,80.2337,3
+2025-03-22,20:46:24,Velachery,High,Cloudy,34.7,Yes,12.9766,80.2183,35
+2025-03-22,20:56:24,Velachery,High,Rainy,31.5,Yes,12.9766,80.2183,37
+2025-03-22,21:23:24,Anna Nagar,High,Rainy,38.5,Yes,13.0853,80.2103,25
+2025-03-22,21:43:24,T. Nagar,High,Rainy,31.1,Yes,13.0402,80.2337,38
+2025-03-22,21:55:24,Velachery,Low,Rainy,25.9,No,12.9766,80.2183,3
+2025-03-22,22:16:24,Mylapore,Low,Cloudy,28.9,No,13.0325,80.2684,3
+2025-03-22,22:42:24,Tambaram,High,Stormy,36.1,Yes,12.9245,80.127,25
+2025-03-22,23:03:24,Sholinganallur,Medium,Rainy,28.8,No,12.8985,80.2273,8
+2025-03-22,23:19:24,Sholinganallur,Medium,Rainy,25.8,Yes,12.8985,80.2273,8
+2025-03-22,23:40:24,Adyar,Low,Rainy,35.7,No,13.0067,80.2554,5
+2025-03-22,23:51:24,Velachery,High,Cloudy,34.1,Yes,12.9766,80.2183,39
+2025-03-23,00:07:24,Velachery,High,Sunny,27.4,Yes,12.9766,80.2183,33
+2025-03-23,00:33:24,T. Nagar,Medium,Sunny,26.0,No,13.0402,80.2337,14
+2025-03-23,00:38:24,Adyar,Medium,Stormy,26.9,Yes,13.0067,80.2554,10
+2025-03-23,01:03:24,Tambaram,High,Foggy,31.1,Yes,12.9245,80.127,24
+2025-03-23,01:26:24,Guindy,Low,Foggy,36.6,No,13.0079,80.2209,5
+2025-03-23,01:50:24,Sholinganallur,Low,Foggy,33.4,No,12.8985,80.2273,5
+2025-03-23,02:03:24,Kodambakkam,High,Foggy,37.0,Yes,13.0528,80.2296,32
+2025-03-23,02:32:24,Anna Nagar,Medium,Stormy,37.3,Yes,13.0853,80.2103,13
+2025-03-23,02:42:24,Guindy,Low,Cloudy,30.5,No,13.0079,80.2209,2
+2025-03-23,03:04:24,Guindy,Low,Foggy,33.8,Yes,13.0079,80.2209,1
+2025-03-23,03:33:24,Sholinganallur,Medium,Stormy,34.3,Yes,12.8985,80.2273,9
+2025-03-23,03:41:24,Kodambakkam,Medium,Rainy,38.4,Yes,13.0528,80.2296,7
+2025-03-23,03:59:24,Sholinganallur,High,Rainy,25.0,Yes,12.8985,80.2273,38
+2025-03-23,04:27:24,Anna Nagar,High,Cloudy,37.6,Yes,13.0853,80.2103,34
+2025-03-23,04:37:24,Anna Nagar,Medium,Rainy,30.2,No,13.0853,80.2103,9
+2025-03-23,04:42:24,Velachery,High,Sunny,27.8,Yes,12.9766,80.2183,20
+2025-03-23,05:11:24,Anna Nagar,Medium,Sunny,39.1,No,13.0853,80.2103,7
+2025-03-23,05:18:24,Anna Nagar,High,Rainy,31.0,Yes,13.0853,80.2103,32
+2025-03-23,05:25:24,T. Nagar,High,Cloudy,39.6,Yes,13.0402,80.2337,45
+2025-03-23,05:36:24,Adyar,Low,Foggy,39.9,No,13.0067,80.2554,5
+2025-03-23,05:49:24,Adyar,Medium,Cloudy,26.4,No,13.0067,80.2554,14
+2025-03-23,06:11:24,Mylapore,High,Rainy,36.3,Yes,13.0325,80.2684,32
+2025-03-23,06:34:24,Adyar,High,Cloudy,28.8,Yes,13.0067,80.2554,21
+2025-03-23,06:46:24,Sholinganallur,Low,Rainy,27.7,Yes,12.8985,80.2273,0
+2025-03-23,07:04:24,Mylapore,High,Stormy,35.3,Yes,13.0325,80.2684,35
+2025-03-23,07:34:24,Kodambakkam,High,Sunny,26.9,Yes,13.0528,80.2296,24
+2025-03-23,07:57:24,Mylapore,High,Rainy,40.0,Yes,13.0325,80.2684,22
+2025-03-23,08:24:24,Mylapore,High,Sunny,26.4,Yes,13.0325,80.2684,36
+2025-03-23,08:50:24,Sholinganallur,Low,Sunny,34.0,Yes,12.8985,80.2273,1
+2025-03-23,09:02:24,T. Nagar,High,Sunny,25.3,Yes,13.0402,80.2337,24
+2025-03-23,09:14:24,Porur,Low,Stormy,25.3,No,13.0359,80.1583,4
+2025-03-23,09:42:24,Mylapore,Low,Sunny,34.5,Yes,13.0325,80.2684,2
+2025-03-23,10:07:24,Velachery,Low,Sunny,36.9,Yes,12.9766,80.2183,5
+2025-03-23,10:28:24,Tambaram,Low,Sunny,39.0,No,12.9245,80.127,0
+2025-03-23,10:34:24,Velachery,High,Sunny,31.2,Yes,12.9766,80.2183,39
+2025-03-23,10:48:24,Anna Nagar,Medium,Foggy,26.7,No,13.0853,80.2103,7
+2025-03-23,11:02:24,Adyar,Medium,Foggy,38.2,No,13.0067,80.2554,14
+2025-03-23,11:24:24,Anna Nagar,Low,Sunny,28.9,No,13.0853,80.2103,4
+2025-03-23,11:40:24,Velachery,Low,Foggy,27.0,No,12.9766,80.2183,0
+2025-03-23,12:10:24,Sholinganallur,High,Foggy,25.3,Yes,12.8985,80.2273,22
+2025-03-23,12:22:24,Tambaram,Low,Sunny,30.2,Yes,12.9245,80.127,0
+2025-03-23,12:36:24,Tambaram,Medium,Sunny,36.9,No,12.9245,80.127,7
+2025-03-23,13:04:24,T. Nagar,Low,Cloudy,27.2,Yes,13.0402,80.2337,3
+2025-03-23,13:24:24,Porur,High,Rainy,35.0,Yes,13.0359,80.1583,18
+2025-03-23,13:38:24,Velachery,Low,Stormy,31.8,Yes,12.9766,80.2183,5
+2025-03-23,14:08:24,Velachery,Low,Rainy,35.4,Yes,12.9766,80.2183,5
+2025-03-23,14:18:24,Guindy,Low,Rainy,30.6,Yes,13.0079,80.2209,3
+2025-03-23,14:38:24,Porur,High,Foggy,26.3,Yes,13.0359,80.1583,37
+2025-03-23,14:57:24,Anna Nagar,High,Sunny,26.6,Yes,13.0853,80.2103,34
+2025-03-23,15:20:24,Guindy,Medium,Rainy,35.6,Yes,13.0079,80.2209,11
+2025-03-23,15:31:24,Velachery,Low,Rainy,36.1,No,12.9766,80.2183,0
+2025-03-23,15:43:24,Tambaram,Medium,Sunny,27.7,No,12.9245,80.127,11
+2025-03-23,16:00:24,Velachery,Medium,Sunny,34.0,No,12.9766,80.2183,15
+2025-03-23,16:09:24,T. Nagar,High,Cloudy,32.5,Yes,13.0402,80.2337,25
+2025-03-23,16:24:24,Guindy,Medium,Rainy,35.6,Yes,13.0079,80.2209,13
+2025-03-23,16:52:24,Tambaram,Medium,Sunny,29.3,Yes,12.9245,80.127,12
+2025-03-23,17:10:24,Sholinganallur,Low,Cloudy,28.4,Yes,12.8985,80.2273,4
+2025-03-23,17:29:24,Kodambakkam,Medium,Stormy,36.8,No,13.0528,80.2296,8
+2025-03-23,17:51:24,Tambaram,Medium,Cloudy,26.3,Yes,12.9245,80.127,15
+2025-03-23,18:04:24,Porur,Low,Foggy,25.7,Yes,13.0359,80.1583,5
+2025-03-23,18:27:24,Kodambakkam,High,Stormy,25.0,Yes,13.0528,80.2296,44
+2025-03-23,18:47:24,Porur,High,Sunny,33.0,Yes,13.0359,80.1583,20
+2025-03-23,19:15:24,Tambaram,Low,Rainy,25.4,No,12.9245,80.127,0
+2025-03-23,19:23:24,Porur,Medium,Stormy,31.4,Yes,13.0359,80.1583,9
+2025-03-23,19:51:24,Porur,Low,Stormy,34.1,Yes,13.0359,80.1583,4
+2025-03-23,20:15:24,Adyar,Medium,Stormy,27.4,No,13.0067,80.2554,5
+2025-03-23,20:45:24,Guindy,Medium,Stormy,34.2,Yes,13.0079,80.2209,5
+2025-03-23,20:57:24,Adyar,Medium,Cloudy,39.0,No,13.0067,80.2554,10
+2025-03-23,21:15:24,Porur,Medium,Sunny,33.4,Yes,13.0359,80.1583,7
+2025-03-23,21:39:24,Adyar,Low,Sunny,32.0,No,13.0067,80.2554,4
+2025-03-23,21:49:24,T. Nagar,High,Stormy,29.8,Yes,13.0402,80.2337,30
+2025-03-23,22:19:24,Adyar,Low,Sunny,39.3,Yes,13.0067,80.2554,3
+2025-03-23,22:43:24,Adyar,Low,Rainy,33.5,No,13.0067,80.2554,2
+2025-03-23,23:13:24,Tambaram,High,Rainy,29.3,Yes,12.9245,80.127,40
+2025-03-23,23:30:24,Kodambakkam,High,Stormy,29.1,Yes,13.0528,80.2296,24
+2025-03-23,23:54:24,Mylapore,High,Sunny,29.2,Yes,13.0325,80.2684,38
+2025-03-24,00:14:24,Guindy,High,Cloudy,34.9,Yes,13.0079,80.2209,19
+2025-03-24,00:44:24,Kodambakkam,High,Stormy,28.8,Yes,13.0528,80.2296,40
+2025-03-24,01:05:24,Tambaram,High,Cloudy,35.8,Yes,12.9245,80.127,45
+2025-03-24,01:14:24,Guindy,Medium,Foggy,30.3,Yes,13.0079,80.2209,8
+2025-03-24,01:28:24,Kodambakkam,Low,Stormy,36.4,No,13.0528,80.2296,5
+2025-03-24,01:52:24,Velachery,High,Stormy,28.4,Yes,12.9766,80.2183,40
+2025-03-24,02:09:24,Porur,High,Cloudy,38.3,Yes,13.0359,80.1583,34
+2025-03-24,02:35:24,T. Nagar,Low,Cloudy,36.9,No,13.0402,80.2337,4
+2025-03-24,02:44:24,Tambaram,Low,Cloudy,35.3,No,12.9245,80.127,4
+2025-03-24,03:05:24,Guindy,Medium,Sunny,36.0,Yes,13.0079,80.2209,7
+2025-03-24,03:20:24,Anna Nagar,Low,Stormy,26.4,Yes,13.0853,80.2103,0
+2025-03-24,03:29:24,Adyar,Medium,Stormy,30.5,No,13.0067,80.2554,6
+2025-03-24,03:41:24,Kodambakkam,High,Rainy,25.6,Yes,13.0528,80.2296,20
+2025-03-24,03:53:24,T. Nagar,Low,Sunny,33.8,Yes,13.0402,80.2337,0
+2025-03-24,04:16:24,Mylapore,Medium,Rainy,36.2,Yes,13.0325,80.2684,13
+2025-03-24,04:33:24,Mylapore,High,Cloudy,36.9,Yes,13.0325,80.2684,17
+2025-03-24,04:48:24,Porur,Low,Cloudy,36.7,Yes,13.0359,80.1583,5
+2025-03-24,04:54:24,Velachery,High,Rainy,28.3,Yes,12.9766,80.2183,15
+2025-03-24,05:11:24,Sholinganallur,Medium,Sunny,33.3,No,12.8985,80.2273,9
+2025-03-24,05:31:24,T. Nagar,High,Foggy,25.1,Yes,13.0402,80.2337,22
+2025-03-24,05:50:24,Adyar,Medium,Foggy,29.4,Yes,13.0067,80.2554,15
+2025-03-24,06:19:24,Porur,Medium,Rainy,27.5,No,13.0359,80.1583,15
+2025-03-24,06:32:24,Guindy,Medium,Sunny,30.2,No,13.0079,80.2209,14
+2025-03-24,06:43:24,Kodambakkam,High,Stormy,26.0,Yes,13.0528,80.2296,18
+2025-03-24,06:55:24,Mylapore,High,Rainy,36.2,Yes,13.0325,80.2684,39
+2025-03-24,07:06:24,Porur,Medium,Foggy,26.1,Yes,13.0359,80.1583,7
+2025-03-24,07:12:24,Kodambakkam,Medium,Foggy,30.2,Yes,13.0528,80.2296,13
+2025-03-24,07:38:24,Mylapore,Medium,Foggy,36.6,No,13.0325,80.2684,7
+2025-03-24,08:01:24,Tambaram,Low,Cloudy,38.5,No,12.9245,80.127,2
+2025-03-24,08:28:24,Adyar,Low,Sunny,34.4,Yes,13.0067,80.2554,0
+2025-03-24,08:41:24,Sholinganallur,High,Sunny,39.7,Yes,12.8985,80.2273,38
+2025-03-24,09:02:24,Guindy,High,Sunny,30.3,Yes,13.0079,80.2209,28
+2025-03-24,09:09:24,Tambaram,Medium,Rainy,36.9,Yes,12.9245,80.127,10
+2025-03-24,09:30:24,Adyar,High,Sunny,29.7,Yes,13.0067,80.2554,16
+2025-03-24,09:37:24,Anna Nagar,Medium,Rainy,35.9,Yes,13.0853,80.2103,6
+2025-03-24,10:06:24,Sholinganallur,Medium,Stormy,30.4,Yes,12.8985,80.2273,14
+2025-03-24,10:32:24,Anna Nagar,Medium,Cloudy,37.2,No,13.0853,80.2103,11
+2025-03-24,10:45:24,Porur,Medium,Cloudy,27.8,Yes,13.0359,80.1583,9
+2025-03-24,11:05:24,Mylapore,High,Cloudy,30.7,Yes,13.0325,80.2684,44
+2025-03-24,11:35:24,Mylapore,High,Rainy,35.8,Yes,13.0325,80.2684,44
+2025-03-24,11:55:24,Porur,High,Cloudy,36.5,Yes,13.0359,80.1583,19
+2025-03-24,12:22:24,Guindy,High,Sunny,28.9,Yes,13.0079,80.2209,34
+2025-03-24,12:38:24,Guindy,Low,Rainy,30.7,Yes,13.0079,80.2209,2
+2025-03-24,12:52:24,Tambaram,Medium,Foggy,33.6,No,12.9245,80.127,15
+2025-03-24,13:12:24,Velachery,Low,Rainy,28.5,Yes,12.9766,80.2183,5
+2025-03-24,13:28:24,Sholinganallur,Low,Stormy,29.9,No,12.8985,80.2273,4
+2025-03-24,13:44:24,Tambaram,Low,Sunny,30.4,No,12.9245,80.127,5
+2025-03-24,14:11:24,Adyar,Low,Foggy,36.3,Yes,13.0067,80.2554,1
+2025-03-24,14:17:24,T. Nagar,Medium,Stormy,25.9,No,13.0402,80.2337,15
+2025-03-24,14:46:24,Anna Nagar,Medium,Cloudy,28.7,Yes,13.0853,80.2103,10
+2025-03-24,14:51:24,Sholinganallur,High,Rainy,37.1,Yes,12.8985,80.2273,24
+2025-03-24,15:20:24,Tambaram,Medium,Cloudy,32.8,No,12.9245,80.127,14
+2025-03-24,15:32:24,Adyar,Medium,Cloudy,34.9,Yes,13.0067,80.2554,13
+2025-03-24,15:57:24,Sholinganallur,Medium,Rainy,32.6,Yes,12.8985,80.2273,11
+2025-03-24,16:15:24,Velachery,High,Stormy,32.1,Yes,12.9766,80.2183,37
+2025-03-24,16:45:24,Anna Nagar,Medium,Sunny,26.3,Yes,13.0853,80.2103,7
+2025-03-24,16:52:24,T. Nagar,Medium,Stormy,37.2,Yes,13.0402,80.2337,15
+2025-03-24,17:16:24,Sholinganallur,Medium,Rainy,30.0,No,12.8985,80.2273,7
+2025-03-24,17:38:24,Tambaram,High,Sunny,31.9,Yes,12.9245,80.127,26
+2025-03-24,17:56:24,Tambaram,High,Rainy,28.0,Yes,12.9245,80.127,38
+2025-03-24,18:21:24,Porur,Low,Sunny,26.6,No,13.0359,80.1583,3
+2025-03-24,18:43:24,Kodambakkam,Low,Cloudy,29.7,No,13.0528,80.2296,1
+2025-03-24,18:55:24,Mylapore,Medium,Cloudy,29.4,Yes,13.0325,80.2684,14
+2025-03-24,19:18:24,Adyar,Medium,Sunny,27.4,No,13.0067,80.2554,7
+2025-03-24,19:31:24,Kodambakkam,High,Rainy,28.0,Yes,13.0528,80.2296,41
+2025-03-24,19:43:24,Mylapore,High,Cloudy,29.2,Yes,13.0325,80.2684,24
+2025-03-24,20:03:24,Adyar,High,Rainy,38.6,Yes,13.0067,80.2554,28
+2025-03-24,20:09:24,Guindy,Low,Sunny,32.0,No,13.0079,80.2209,3
+2025-03-24,20:25:24,Kodambakkam,High,Rainy,31.2,Yes,13.0528,80.2296,29
+2025-03-24,20:42:24,Tambaram,High,Stormy,32.5,Yes,12.9245,80.127,40
+2025-03-24,20:58:24,Mylapore,High,Rainy,33.3,Yes,13.0325,80.2684,32
+2025-03-24,21:24:24,Mylapore,Medium,Rainy,34.8,No,13.0325,80.2684,9
+2025-03-24,21:45:24,Mylapore,Medium,Stormy,25.4,No,13.0325,80.2684,9
+2025-03-24,22:00:24,Mylapore,High,Sunny,32.4,Yes,13.0325,80.2684,38
+2025-03-24,22:11:24,Velachery,Medium,Sunny,35.7,Yes,12.9766,80.2183,14
+2025-03-24,22:19:24,Anna Nagar,High,Foggy,36.4,Yes,13.0853,80.2103,29
+2025-03-24,22:33:24,Adyar,Low,Stormy,35.1,No,13.0067,80.2554,1
+2025-03-24,22:56:24,Velachery,High,Stormy,31.4,Yes,12.9766,80.2183,33
+2025-03-24,23:17:24,Tambaram,High,Rainy,33.9,Yes,12.9245,80.127,23
+2025-03-24,23:23:24,Adyar,High,Stormy,26.5,Yes,13.0067,80.2554,39
+2025-03-24,23:32:24,Anna Nagar,Medium,Sunny,35.1,No,13.0853,80.2103,7
+2025-03-24,23:46:24,Velachery,Low,Foggy,36.4,No,12.9766,80.2183,3
+2025-03-25,00:02:24,Guindy,Low,Stormy,25.2,Yes,13.0079,80.2209,2
+2025-03-25,00:17:24,Adyar,Medium,Rainy,33.6,Yes,13.0067,80.2554,12
+2025-03-25,00:24:24,Mylapore,Low,Sunny,27.0,No,13.0325,80.2684,5
+2025-03-25,00:34:24,Sholinganallur,Low,Rainy,36.0,No,12.8985,80.2273,1
+2025-03-25,00:41:24,Tambaram,Low,Cloudy,34.8,No,12.9245,80.127,2
+2025-03-25,00:57:24,Adyar,Low,Cloudy,37.4,No,13.0067,80.2554,0
+2025-03-25,01:08:24,Sholinganallur,Medium,Foggy,29.7,Yes,12.8985,80.2273,9
+2025-03-25,01:16:24,Mylapore,High,Stormy,30.6,Yes,13.0325,80.2684,29
+2025-03-25,01:30:24,Adyar,High,Rainy,38.4,Yes,13.0067,80.2554,26
+2025-03-25,01:50:24,Porur,High,Cloudy,36.6,Yes,13.0359,80.1583,25
+2025-03-25,02:16:24,Tambaram,Medium,Cloudy,34.1,Yes,12.9245,80.127,9
+2025-03-25,02:39:24,Kodambakkam,Low,Foggy,33.9,Yes,13.0528,80.2296,0
+2025-03-25,02:51:24,Sholinganallur,Low,Rainy,37.4,No,12.8985,80.2273,0
+2025-03-25,03:13:24,T. Nagar,Medium,Foggy,33.5,Yes,13.0402,80.2337,10
+2025-03-25,03:41:24,T. Nagar,Medium,Sunny,36.6,Yes,13.0402,80.2337,5
+2025-03-25,04:10:24,Mylapore,Medium,Rainy,34.0,Yes,13.0325,80.2684,5
+2025-03-25,04:37:24,Sholinganallur,Low,Stormy,26.9,Yes,12.8985,80.2273,5
+2025-03-25,04:53:24,Kodambakkam,Low,Rainy,26.4,Yes,13.0528,80.2296,0
+2025-03-25,05:11:24,T. Nagar,Medium,Rainy,26.6,Yes,13.0402,80.2337,7
+2025-03-25,05:24:24,Porur,Low,Foggy,32.8,Yes,13.0359,80.1583,0
+2025-03-25,05:37:24,Anna Nagar,Medium,Sunny,26.1,No,13.0853,80.2103,5
+2025-03-25,06:05:24,Anna Nagar,Low,Foggy,32.7,Yes,13.0853,80.2103,1
+2025-03-25,06:35:24,Sholinganallur,Low,Foggy,36.3,No,12.8985,80.2273,4
+2025-03-25,06:48:24,T. Nagar,Medium,Stormy,30.9,No,13.0402,80.2337,14
+2025-03-25,07:05:24,Tambaram,Low,Rainy,30.2,Yes,12.9245,80.127,2
+2025-03-25,07:27:24,T. Nagar,High,Rainy,30.9,Yes,13.0402,80.2337,39
+2025-03-25,07:55:24,Velachery,Low,Cloudy,30.0,Yes,12.9766,80.2183,2
+2025-03-25,08:10:24,Mylapore,Medium,Stormy,39.8,Yes,13.0325,80.2684,7
+2025-03-25,08:36:24,Adyar,High,Rainy,27.7,Yes,13.0067,80.2554,24
+2025-03-25,08:59:24,Kodambakkam,Low,Cloudy,38.2,Yes,13.0528,80.2296,1
+2025-03-25,09:28:24,T. Nagar,High,Rainy,38.2,Yes,13.0402,80.2337,33
+2025-03-25,09:43:24,Adyar,Low,Stormy,26.4,Yes,13.0067,80.2554,1
+2025-03-25,10:11:24,Kodambakkam,Low,Sunny,27.1,Yes,13.0528,80.2296,1
+2025-03-25,10:33:24,Anna Nagar,High,Stormy,38.1,Yes,13.0853,80.2103,40
+2025-03-25,10:43:24,Tambaram,High,Rainy,27.5,Yes,12.9245,80.127,28
+2025-03-25,10:54:24,Adyar,High,Cloudy,33.7,Yes,13.0067,80.2554,26
+2025-03-25,11:17:24,Guindy,High,Cloudy,31.4,Yes,13.0079,80.2209,15
+2025-03-25,11:26:24,Tambaram,High,Stormy,35.0,Yes,12.9245,80.127,45
+2025-03-25,11:38:24,Sholinganallur,Low,Cloudy,30.7,Yes,12.8985,80.2273,1
+2025-03-25,12:07:24,Guindy,Medium,Cloudy,36.8,Yes,13.0079,80.2209,11
+2025-03-25,12:21:24,Tambaram,High,Sunny,38.2,Yes,12.9245,80.127,23
+2025-03-25,12:44:24,Sholinganallur,Medium,Cloudy,30.4,Yes,12.8985,80.2273,8
+2025-03-25,12:55:24,Adyar,Low,Rainy,26.7,No,13.0067,80.2554,3
+2025-03-25,13:23:24,Velachery,High,Cloudy,33.7,Yes,12.9766,80.2183,45
+2025-03-25,13:42:24,Adyar,Medium,Foggy,32.8,No,13.0067,80.2554,12
+2025-03-25,13:47:24,Adyar,High,Sunny,27.3,Yes,13.0067,80.2554,26
+2025-03-25,14:08:24,Velachery,Medium,Stormy,32.4,No,12.9766,80.2183,11
+2025-03-25,14:29:24,Adyar,Medium,Stormy,26.5,No,13.0067,80.2554,8
+2025-03-25,14:42:24,Adyar,High,Rainy,33.4,Yes,13.0067,80.2554,41
+2025-03-25,14:53:24,T. Nagar,Low,Rainy,30.0,No,13.0402,80.2337,5
+2025-03-25,15:08:24,T. Nagar,High,Cloudy,36.0,Yes,13.0402,80.2337,18
+2025-03-25,15:20:24,Guindy,Medium,Rainy,39.7,Yes,13.0079,80.2209,14
+2025-03-25,15:39:24,Porur,Low,Cloudy,35.7,No,13.0359,80.1583,3
+2025-03-25,16:09:24,Guindy,Low,Foggy,33.0,Yes,13.0079,80.2209,2
+2025-03-25,16:15:24,Sholinganallur,Medium,Stormy,28.8,No,12.8985,80.2273,10
+2025-03-25,16:26:24,Sholinganallur,Low,Cloudy,32.1,Yes,12.8985,80.2273,2
+2025-03-25,16:54:24,Tambaram,Medium,Foggy,39.2,No,12.9245,80.127,9
+2025-03-25,17:20:24,Kodambakkam,Medium,Rainy,32.0,Yes,13.0528,80.2296,9
+2025-03-25,17:49:24,Sholinganallur,Low,Sunny,38.0,No,12.8985,80.2273,3
+2025-03-25,18:04:24,Mylapore,Medium,Stormy,36.8,Yes,13.0325,80.2684,9
+2025-03-25,18:10:24,Kodambakkam,High,Cloudy,37.2,Yes,13.0528,80.2296,21
+2025-03-25,18:40:24,Anna Nagar,Medium,Foggy,27.8,Yes,13.0853,80.2103,9
+2025-03-25,19:09:24,Adyar,High,Rainy,28.4,Yes,13.0067,80.2554,17
+2025-03-25,19:19:24,Mylapore,Medium,Sunny,35.5,No,13.0325,80.2684,11
+2025-03-25,19:25:24,Adyar,Low,Foggy,30.8,No,13.0067,80.2554,1
+2025-03-25,19:48:24,Sholinganallur,Low,Stormy,32.3,No,12.8985,80.2273,2
+2025-03-25,20:02:24,Kodambakkam,High,Cloudy,28.2,Yes,13.0528,80.2296,27
+2025-03-25,20:13:24,Anna Nagar,High,Sunny,39.4,Yes,13.0853,80.2103,23
+2025-03-25,20:37:24,Sholinganallur,High,Foggy,27.2,Yes,12.8985,80.2273,32
+2025-03-25,20:49:24,Velachery,Low,Stormy,34.0,No,12.9766,80.2183,5
+2025-03-25,20:55:24,Tambaram,Medium,Sunny,29.2,No,12.9245,80.127,8
+2025-03-25,21:00:24,Guindy,Low,Foggy,28.7,Yes,13.0079,80.2209,1
+2025-03-25,21:06:24,Velachery,Low,Foggy,39.2,No,12.9766,80.2183,1
+2025-03-25,21:16:24,Guindy,Medium,Cloudy,27.6,Yes,13.0079,80.2209,7
+2025-03-25,21:22:24,T. Nagar,High,Foggy,32.5,Yes,13.0402,80.2337,28
+2025-03-25,21:42:24,T. Nagar,Low,Foggy,32.1,Yes,13.0402,80.2337,4
+2025-03-25,22:06:24,Adyar,Medium,Foggy,25.1,No,13.0067,80.2554,5
+2025-03-25,22:23:24,Guindy,Medium,Sunny,27.0,No,13.0079,80.2209,13
+2025-03-25,22:49:24,Porur,High,Foggy,27.6,Yes,13.0359,80.1583,39
+2025-03-25,23:13:24,Guindy,High,Stormy,29.2,Yes,13.0079,80.2209,20
+2025-03-25,23:43:24,Sholinganallur,Low,Sunny,32.8,No,12.8985,80.2273,3
+2025-03-26,00:01:24,T. Nagar,High,Foggy,28.6,Yes,13.0402,80.2337,37
+2025-03-26,00:26:24,Velachery,High,Cloudy,26.1,Yes,12.9766,80.2183,41
+2025-03-26,00:44:24,Guindy,Medium,Sunny,29.8,Yes,13.0079,80.2209,11
+2025-03-26,01:05:24,Velachery,High,Sunny,27.2,Yes,12.9766,80.2183,43
+2025-03-26,01:15:24,T. Nagar,High,Cloudy,38.3,Yes,13.0402,80.2337,17
+2025-03-26,01:25:24,T. Nagar,High,Sunny,26.3,Yes,13.0402,80.2337,42
+2025-03-26,01:44:24,Tambaram,Low,Cloudy,31.4,No,12.9245,80.127,0
+2025-03-26,02:12:24,Anna Nagar,Medium,Sunny,28.9,Yes,13.0853,80.2103,15
+2025-03-26,02:34:24,Mylapore,Low,Stormy,34.8,Yes,13.0325,80.2684,4
+2025-03-26,02:48:24,Guindy,High,Cloudy,31.9,Yes,13.0079,80.2209,27
+2025-03-26,03:17:24,Guindy,High,Rainy,32.3,Yes,13.0079,80.2209,45
+2025-03-26,03:35:24,Velachery,High,Rainy,32.1,Yes,12.9766,80.2183,33
+2025-03-26,04:02:24,Porur,High,Stormy,25.2,Yes,13.0359,80.1583,15
+2025-03-26,04:17:24,Mylapore,High,Cloudy,31.5,Yes,13.0325,80.2684,16
+2025-03-26,04:31:24,Mylapore,Low,Foggy,35.3,No,13.0325,80.2684,2
+2025-03-26,04:49:24,Velachery,High,Rainy,37.9,Yes,12.9766,80.2183,40
+2025-03-26,05:15:24,Mylapore,High,Rainy,38.6,Yes,13.0325,80.2684,25
+2025-03-26,05:33:24,Velachery,Low,Sunny,31.1,No,12.9766,80.2183,5
+2025-03-26,05:38:24,T. Nagar,Medium,Sunny,27.3,Yes,13.0402,80.2337,5
+2025-03-26,05:46:24,T. Nagar,Low,Cloudy,29.6,Yes,13.0402,80.2337,5
+2025-03-26,06:02:24,Porur,Medium,Stormy,30.6,No,13.0359,80.1583,10
+2025-03-26,06:12:24,Sholinganallur,High,Cloudy,37.4,Yes,12.8985,80.2273,15
+2025-03-26,06:36:24,Porur,Medium,Foggy,29.7,No,13.0359,80.1583,15
+2025-03-26,06:46:24,Kodambakkam,Medium,Sunny,32.9,Yes,13.0528,80.2296,10
+2025-03-26,07:12:24,Velachery,Medium,Stormy,34.1,Yes,12.9766,80.2183,15
+2025-03-26,07:39:24,Anna Nagar,Low,Rainy,25.7,No,13.0853,80.2103,2
+2025-03-26,07:46:24,T. Nagar,Medium,Sunny,32.4,No,13.0402,80.2337,15
+2025-03-26,08:02:24,Porur,Low,Sunny,36.7,No,13.0359,80.1583,1
+2025-03-26,08:26:24,Mylapore,Low,Sunny,38.3,No,13.0325,80.2684,2
+2025-03-26,08:35:24,Adyar,Low,Cloudy,28.1,Yes,13.0067,80.2554,4
+2025-03-26,09:01:24,Velachery,Low,Rainy,31.6,Yes,12.9766,80.2183,0
+2025-03-26,09:09:24,Tambaram,Low,Stormy,28.1,No,12.9245,80.127,4
+2025-03-26,09:16:24,Guindy,Medium,Rainy,36.2,Yes,13.0079,80.2209,13
+2025-03-26,09:25:24,Sholinganallur,Medium,Sunny,36.0,Yes,12.8985,80.2273,12
+2025-03-26,09:36:24,Anna Nagar,High,Stormy,32.0,Yes,13.0853,80.2103,30
+2025-03-26,09:47:24,Anna Nagar,High,Cloudy,31.2,Yes,13.0853,80.2103,22
+2025-03-26,10:13:24,Kodambakkam,Low,Cloudy,25.7,No,13.0528,80.2296,2
+2025-03-26,10:29:24,Adyar,High,Sunny,33.2,Yes,13.0067,80.2554,38
+2025-03-26,10:50:24,Guindy,Medium,Stormy,35.8,Yes,13.0079,80.2209,14
+2025-03-26,11:05:24,Adyar,High,Foggy,34.2,Yes,13.0067,80.2554,45
+2025-03-26,11:23:24,Adyar,Low,Cloudy,34.2,Yes,13.0067,80.2554,4
+2025-03-26,11:32:24,Kodambakkam,Low,Sunny,39.0,No,13.0528,80.2296,0
+2025-03-26,11:50:24,T. Nagar,Medium,Foggy,35.4,Yes,13.0402,80.2337,13
+2025-03-26,11:55:24,Adyar,Low,Stormy,32.2,Yes,13.0067,80.2554,5
+2025-03-26,12:24:24,Tambaram,High,Stormy,27.8,Yes,12.9245,80.127,18
+2025-03-26,12:51:24,T. Nagar,High,Foggy,29.6,Yes,13.0402,80.2337,38
+2025-03-26,13:12:24,T. Nagar,High,Rainy,34.9,Yes,13.0402,80.2337,41
+2025-03-26,13:24:24,Velachery,Low,Stormy,38.2,No,12.9766,80.2183,3
+2025-03-26,13:49:24,Porur,Medium,Foggy,37.9,No,13.0359,80.1583,7
+2025-03-26,14:08:24,Adyar,High,Rainy,35.0,Yes,13.0067,80.2554,21
+2025-03-26,14:18:24,Porur,High,Sunny,28.8,Yes,13.0359,80.1583,31
+2025-03-26,14:34:24,Mylapore,Low,Stormy,31.5,No,13.0325,80.2684,4
+2025-03-26,14:47:24,Velachery,Medium,Cloudy,30.4,No,12.9766,80.2183,7
+2025-03-26,15:03:24,Kodambakkam,High,Stormy,28.9,Yes,13.0528,80.2296,28
+2025-03-26,15:28:24,Tambaram,Low,Sunny,36.7,No,12.9245,80.127,1
+2025-03-26,15:57:24,Kodambakkam,Medium,Cloudy,35.5,Yes,13.0528,80.2296,9
+2025-03-26,16:26:24,Velachery,Medium,Rainy,32.1,Yes,12.9766,80.2183,14
+2025-03-26,16:36:24,Velachery,Medium,Rainy,32.0,Yes,12.9766,80.2183,11
+2025-03-26,16:46:24,T. Nagar,Medium,Stormy,35.1,No,13.0402,80.2337,12
+2025-03-26,16:55:24,Tambaram,High,Foggy,26.1,Yes,12.9245,80.127,29
+2025-03-26,17:19:24,Adyar,High,Sunny,39.9,Yes,13.0067,80.2554,27
+2025-03-26,17:43:24,Mylapore,Low,Sunny,27.0,Yes,13.0325,80.2684,5
+2025-03-26,17:50:24,Sholinganallur,Medium,Sunny,31.4,Yes,12.8985,80.2273,8
+2025-03-26,17:57:24,Anna Nagar,Medium,Foggy,34.4,No,13.0853,80.2103,12
+2025-03-26,18:04:24,Kodambakkam,Medium,Stormy,39.5,No,13.0528,80.2296,7
+2025-03-26,18:21:24,Adyar,High,Rainy,27.9,Yes,13.0067,80.2554,30
+2025-03-26,18:45:24,Guindy,Low,Cloudy,26.3,No,13.0079,80.2209,2
+2025-03-26,19:15:24,Velachery,Low,Cloudy,39.6,Yes,12.9766,80.2183,0
+2025-03-26,19:30:24,Mylapore,Medium,Sunny,39.2,Yes,13.0325,80.2684,13
+2025-03-26,19:51:24,Velachery,Low,Foggy,38.0,No,12.9766,80.2183,2
+2025-03-26,19:57:24,Sholinganallur,Medium,Rainy,36.5,No,12.8985,80.2273,9
+2025-03-26,20:03:24,Sholinganallur,Low,Sunny,35.6,Yes,12.8985,80.2273,3
+2025-03-26,20:13:24,Sholinganallur,Medium,Foggy,31.1,No,12.8985,80.2273,13
+2025-03-26,20:34:24,Adyar,Medium,Rainy,27.5,No,13.0067,80.2554,8
+2025-03-26,20:43:24,Tambaram,Medium,Cloudy,38.9,No,12.9245,80.127,14
+2025-03-26,21:06:24,Sholinganallur,Low,Cloudy,39.3,No,12.8985,80.2273,5
+2025-03-26,21:12:24,Adyar,Medium,Sunny,36.0,Yes,13.0067,80.2554,15
+2025-03-26,21:41:24,Kodambakkam,Low,Cloudy,37.4,No,13.0528,80.2296,0
+2025-03-26,21:54:24,Sholinganallur,High,Sunny,25.0,Yes,12.8985,80.2273,24
+2025-03-26,22:17:24,Kodambakkam,Medium,Cloudy,37.4,Yes,13.0528,80.2296,6
+2025-03-26,22:39:24,Mylapore,Low,Sunny,37.7,Yes,13.0325,80.2684,4
+2025-03-26,23:01:24,Mylapore,Medium,Foggy,35.3,No,13.0325,80.2684,9
+2025-03-26,23:09:24,Porur,Low,Sunny,38.1,No,13.0359,80.1583,0
+2025-03-26,23:27:24,T. Nagar,Medium,Cloudy,35.3,No,13.0402,80.2337,10
+2025-03-26,23:38:24,Porur,Low,Sunny,38.7,No,13.0359,80.1583,2
+2025-03-26,23:59:24,Kodambakkam,Medium,Stormy,33.7,No,13.0528,80.2296,6
+2025-03-27,00:05:24,Porur,High,Foggy,39.0,Yes,13.0359,80.1583,33
+2025-03-27,00:35:24,Velachery,Low,Cloudy,31.9,Yes,12.9766,80.2183,0
+2025-03-27,00:47:24,Tambaram,Low,Sunny,34.9,Yes,12.9245,80.127,3
+2025-03-27,01:08:24,Guindy,Low,Sunny,26.0,Yes,13.0079,80.2209,4
+2025-03-27,01:14:24,Mylapore,Low,Foggy,31.0,Yes,13.0325,80.2684,0
+2025-03-27,01:34:24,Tambaram,Medium,Cloudy,29.2,No,12.9245,80.127,7
+2025-03-27,01:59:24,Sholinganallur,High,Sunny,38.8,Yes,12.8985,80.2273,37
+2025-03-27,02:17:24,Kodambakkam,Medium,Cloudy,39.8,Yes,13.0528,80.2296,14
+2025-03-27,02:46:24,Sholinganallur,High,Rainy,25.6,Yes,12.8985,80.2273,30
+2025-03-27,03:08:24,Guindy,Medium,Stormy,25.9,Yes,13.0079,80.2209,6
+2025-03-27,03:37:24,Velachery,High,Rainy,36.8,Yes,12.9766,80.2183,26
+2025-03-27,04:01:24,T. Nagar,High,Stormy,31.9,Yes,13.0402,80.2337,44
+2025-03-27,04:07:24,Tambaram,High,Stormy,39.5,Yes,12.9245,80.127,39
+2025-03-27,04:36:24,Tambaram,Medium,Foggy,34.4,No,12.9245,80.127,6
+2025-03-27,04:57:24,Sholinganallur,Medium,Rainy,36.5,No,12.8985,80.2273,15
+2025-03-27,05:15:24,Mylapore,Low,Stormy,35.8,Yes,13.0325,80.2684,4
+2025-03-27,05:40:24,Kodambakkam,High,Foggy,28.4,Yes,13.0528,80.2296,19
+2025-03-27,05:48:24,Sholinganallur,Low,Sunny,27.7,No,12.8985,80.2273,1
+2025-03-27,06:14:24,Porur,Medium,Foggy,29.7,No,13.0359,80.1583,11
+2025-03-27,06:23:24,Guindy,Low,Rainy,37.9,Yes,13.0079,80.2209,1
+2025-03-27,06:47:24,Tambaram,Medium,Stormy,35.9,No,12.9245,80.127,8
+2025-03-27,07:17:24,Mylapore,Medium,Cloudy,29.8,Yes,13.0325,80.2684,11
+2025-03-27,07:29:24,Adyar,Medium,Stormy,36.5,No,13.0067,80.2554,13
+2025-03-27,07:45:24,Mylapore,High,Cloudy,39.4,Yes,13.0325,80.2684,17
+2025-03-27,08:03:24,Kodambakkam,Medium,Sunny,25.6,Yes,13.0528,80.2296,12
+2025-03-27,08:21:24,Anna Nagar,Medium,Foggy,26.3,No,13.0853,80.2103,13
+2025-03-27,08:35:24,Guindy,Low,Cloudy,32.1,Yes,13.0079,80.2209,1
+2025-03-27,08:45:24,Sholinganallur,Medium,Rainy,29.8,No,12.8985,80.2273,13
+2025-03-27,08:51:24,Sholinganallur,Medium,Stormy,35.2,Yes,12.8985,80.2273,10
+2025-03-27,08:58:24,Porur,Low,Cloudy,26.8,No,13.0359,80.1583,1
+2025-03-27,09:25:24,Anna Nagar,Low,Cloudy,31.1,Yes,13.0853,80.2103,3
+2025-03-27,09:51:24,Kodambakkam,Low,Stormy,37.5,No,13.0528,80.2296,1
+2025-03-27,10:03:24,Adyar,High,Stormy,28.4,Yes,13.0067,80.2554,39
+2025-03-27,10:13:24,Adyar,Medium,Stormy,34.4,Yes,13.0067,80.2554,10
+2025-03-27,10:38:24,T. Nagar,High,Sunny,32.9,Yes,13.0402,80.2337,43
+2025-03-27,10:58:24,Porur,Medium,Stormy,32.0,Yes,13.0359,80.1583,12
+2025-03-27,11:28:24,Anna Nagar,High,Foggy,27.7,Yes,13.0853,80.2103,17
+2025-03-27,11:40:24,T. Nagar,Low,Foggy,39.6,No,13.0402,80.2337,1
+2025-03-27,11:45:24,Guindy,High,Sunny,28.8,Yes,13.0079,80.2209,37
+2025-03-27,12:04:24,Guindy,High,Sunny,36.2,Yes,13.0079,80.2209,45
+2025-03-27,12:19:24,T. Nagar,Low,Stormy,29.3,No,13.0402,80.2337,3
+2025-03-27,12:39:24,Mylapore,High,Foggy,37.4,Yes,13.0325,80.2684,32
+2025-03-27,13:06:24,Sholinganallur,High,Stormy,32.6,Yes,12.8985,80.2273,20
+2025-03-27,13:14:24,Anna Nagar,Medium,Rainy,25.7,No,13.0853,80.2103,10
+2025-03-27,13:36:24,Adyar,Medium,Sunny,37.2,Yes,13.0067,80.2554,8
+2025-03-27,14:03:24,Mylapore,High,Rainy,34.0,Yes,13.0325,80.2684,38
+2025-03-27,14:19:24,T. Nagar,Low,Stormy,34.3,No,13.0402,80.2337,1
+2025-03-27,14:38:24,Porur,High,Rainy,34.9,Yes,13.0359,80.1583,44
+2025-03-27,15:01:24,Porur,Medium,Rainy,34.9,No,13.0359,80.1583,12
+2025-03-27,15:28:24,Sholinganallur,Low,Cloudy,28.4,Yes,12.8985,80.2273,3
+2025-03-27,15:57:24,Adyar,Low,Foggy,29.6,No,13.0067,80.2554,5
+2025-03-27,16:06:24,Adyar,Low,Rainy,33.4,No,13.0067,80.2554,3
+2025-03-27,16:11:24,Velachery,High,Sunny,33.1,Yes,12.9766,80.2183,33
+2025-03-27,16:21:24,Sholinganallur,Medium,Foggy,36.0,No,12.8985,80.2273,9
+2025-03-27,16:40:24,Adyar,High,Stormy,31.2,Yes,13.0067,80.2554,26
+2025-03-27,17:10:24,Adyar,Medium,Cloudy,26.3,No,13.0067,80.2554,10
+2025-03-27,17:24:24,Sholinganallur,Medium,Cloudy,30.0,No,12.8985,80.2273,13
+2025-03-27,17:50:24,Anna Nagar,High,Sunny,28.7,Yes,13.0853,80.2103,39
+2025-03-27,18:01:24,Guindy,Medium,Sunny,36.4,No,13.0079,80.2209,11
+2025-03-27,18:29:24,Adyar,Low,Cloudy,33.0,No,13.0067,80.2554,3
+2025-03-27,18:45:24,Mylapore,Medium,Foggy,32.9,No,13.0325,80.2684,6
+2025-03-27,19:00:24,T. Nagar,Medium,Stormy,34.0,No,13.0402,80.2337,8
+2025-03-27,19:24:24,Mylapore,Medium,Sunny,34.5,No,13.0325,80.2684,9
+2025-03-27,19:36:24,Mylapore,Medium,Sunny,35.2,No,13.0325,80.2684,6
+2025-03-27,19:50:24,Guindy,Low,Stormy,27.4,Yes,13.0079,80.2209,3
+2025-03-27,20:06:24,Tambaram,Medium,Stormy,39.1,Yes,12.9245,80.127,13
+2025-03-27,20:30:24,Sholinganallur,Medium,Stormy,36.4,Yes,12.8985,80.2273,5
+2025-03-27,20:42:24,Adyar,Medium,Sunny,28.7,Yes,13.0067,80.2554,13
+2025-03-27,21:07:24,Velachery,Low,Sunny,32.3,No,12.9766,80.2183,1
+2025-03-27,21:15:24,Mylapore,Medium,Rainy,37.1,No,13.0325,80.2684,11
+2025-03-27,21:33:24,Adyar,Low,Rainy,38.1,No,13.0067,80.2554,3
+2025-03-27,21:54:24,Guindy,High,Cloudy,29.7,Yes,13.0079,80.2209,43
+2025-03-27,22:10:24,Adyar,High,Stormy,33.5,Yes,13.0067,80.2554,16
+2025-03-27,22:23:24,Sholinganallur,High,Stormy,38.6,Yes,12.8985,80.2273,33
+2025-03-27,22:53:24,T. Nagar,Low,Rainy,26.4,No,13.0402,80.2337,2
+2025-03-27,23:13:24,Mylapore,Medium,Cloudy,28.4,No,13.0325,80.2684,10
+2025-03-27,23:39:24,Porur,Medium,Rainy,33.7,No,13.0359,80.1583,13
+2025-03-27,23:46:24,Velachery,Medium,Cloudy,37.2,Yes,12.9766,80.2183,15
+2025-03-28,00:08:24,Porur,High,Rainy,36.7,Yes,13.0359,80.1583,19
+2025-03-28,00:28:24,T. Nagar,Low,Sunny,38.0,Yes,13.0402,80.2337,5
+2025-03-28,00:48:24,Kodambakkam,Medium,Stormy,27.2,Yes,13.0528,80.2296,10
+2025-03-28,01:04:24,Velachery,Medium,Foggy,34.2,No,12.9766,80.2183,8
+2025-03-28,01:10:24,Kodambakkam,Low,Stormy,30.6,Yes,13.0528,80.2296,2
+2025-03-28,01:40:24,Guindy,Medium,Stormy,26.0,Yes,13.0079,80.2209,8
+2025-03-28,02:04:24,Mylapore,Medium,Sunny,33.8,No,13.0325,80.2684,11
+2025-03-28,02:13:24,Velachery,High,Rainy,39.9,Yes,12.9766,80.2183,45
+2025-03-28,02:27:24,Mylapore,High,Cloudy,36.1,Yes,13.0325,80.2684,22
+2025-03-28,02:44:24,Anna Nagar,High,Rainy,39.9,Yes,13.0853,80.2103,45
+2025-03-28,03:04:24,T. Nagar,Medium,Rainy,29.7,No,13.0402,80.2337,14
+2025-03-28,03:30:24,Tambaram,Low,Stormy,32.2,No,12.9245,80.127,0
+2025-03-28,03:56:24,Kodambakkam,High,Stormy,37.4,Yes,13.0528,80.2296,40
+2025-03-28,04:23:24,Guindy,Medium,Sunny,35.0,No,13.0079,80.2209,5
+2025-03-28,04:43:24,Adyar,High,Sunny,38.7,Yes,13.0067,80.2554,34
+2025-03-28,04:53:24,Velachery,Medium,Cloudy,28.1,No,12.9766,80.2183,11
+2025-03-28,05:19:24,Sholinganallur,Low,Rainy,26.4,No,12.8985,80.2273,0
+2025-03-28,05:25:24,Tambaram,Medium,Stormy,36.5,No,12.9245,80.127,12
+2025-03-28,05:47:24,Kodambakkam,Low,Cloudy,36.7,No,13.0528,80.2296,4
+2025-03-28,05:54:24,Velachery,Low,Foggy,28.3,No,12.9766,80.2183,2
+2025-03-28,06:13:24,Velachery,Low,Cloudy,29.8,No,12.9766,80.2183,0
+2025-03-28,06:26:24,Sholinganallur,Low,Stormy,30.9,Yes,12.8985,80.2273,3
+2025-03-28,06:36:24,Kodambakkam,High,Stormy,39.1,Yes,13.0528,80.2296,45
+2025-03-28,06:57:24,Tambaram,High,Foggy,34.1,Yes,12.9245,80.127,21
+2025-03-28,07:15:24,Porur,Medium,Foggy,30.1,No,13.0359,80.1583,8
+2025-03-28,07:40:24,Mylapore,Medium,Sunny,26.3,Yes,13.0325,80.2684,7
+2025-03-28,08:09:24,Kodambakkam,High,Stormy,37.3,Yes,13.0528,80.2296,45
+2025-03-28,08:39:24,Guindy,Medium,Cloudy,36.9,Yes,13.0079,80.2209,8
+2025-03-28,08:48:24,Sholinganallur,Medium,Foggy,35.9,No,12.8985,80.2273,13
+2025-03-28,08:57:24,Kodambakkam,High,Sunny,34.6,Yes,13.0528,80.2296,35
+2025-03-28,09:26:24,Sholinganallur,High,Sunny,29.4,Yes,12.8985,80.2273,29
+2025-03-28,09:38:24,Tambaram,High,Foggy,25.1,Yes,12.9245,80.127,42
+2025-03-28,09:48:24,Kodambakkam,High,Sunny,25.0,Yes,13.0528,80.2296,44
+2025-03-28,09:58:24,Anna Nagar,Low,Stormy,26.6,Yes,13.0853,80.2103,3
+2025-03-28,10:25:24,Guindy,Low,Sunny,34.6,Yes,13.0079,80.2209,1
+2025-03-28,10:34:24,T. Nagar,Low,Stormy,37.5,Yes,13.0402,80.2337,5
+2025-03-28,10:50:24,Guindy,Low,Stormy,32.5,No,13.0079,80.2209,5
+2025-03-28,11:06:24,Sholinganallur,High,Foggy,38.1,Yes,12.8985,80.2273,17
+2025-03-28,11:30:24,Mylapore,High,Rainy,29.6,Yes,13.0325,80.2684,27
+2025-03-28,11:44:24,T. Nagar,Medium,Stormy,31.7,Yes,13.0402,80.2337,13
+2025-03-28,11:49:24,T. Nagar,Low,Foggy,28.2,Yes,13.0402,80.2337,0
+2025-03-28,12:19:24,T. Nagar,Low,Rainy,27.0,No,13.0402,80.2337,2
+2025-03-28,12:44:24,Kodambakkam,High,Foggy,31.7,Yes,13.0528,80.2296,27
+2025-03-28,12:59:24,Porur,High,Rainy,28.6,Yes,13.0359,80.1583,30
+2025-03-28,13:28:24,Anna Nagar,Medium,Cloudy,38.7,Yes,13.0853,80.2103,6
+2025-03-28,13:34:24,Mylapore,Low,Stormy,30.2,No,13.0325,80.2684,4
+2025-03-28,13:52:24,Mylapore,High,Rainy,29.0,Yes,13.0325,80.2684,32
+2025-03-28,14:09:24,Sholinganallur,Medium,Rainy,30.3,No,12.8985,80.2273,15
+2025-03-28,14:25:24,Anna Nagar,Low,Sunny,33.3,Yes,13.0853,80.2103,2
+2025-03-28,14:43:24,Guindy,High,Rainy,27.3,Yes,13.0079,80.2209,31
+2025-03-28,15:03:24,T. Nagar,Medium,Rainy,37.6,Yes,13.0402,80.2337,9
+2025-03-28,15:15:24,Porur,High,Stormy,30.2,Yes,13.0359,80.1583,35
+2025-03-28,15:40:24,Adyar,Low,Rainy,33.1,Yes,13.0067,80.2554,2
+2025-03-28,16:06:24,Velachery,Medium,Foggy,33.3,No,12.9766,80.2183,13
+2025-03-28,16:14:24,Mylapore,Low,Cloudy,34.8,No,13.0325,80.2684,2
+2025-03-28,16:36:24,Guindy,Low,Sunny,29.5,Yes,13.0079,80.2209,3
+2025-03-28,16:56:24,Anna Nagar,Low,Rainy,36.6,No,13.0853,80.2103,2
+2025-03-28,17:15:24,Anna Nagar,Low,Sunny,39.8,No,13.0853,80.2103,2
+2025-03-28,17:34:24,Kodambakkam,Medium,Foggy,39.0,No,13.0528,80.2296,11
+2025-03-28,17:49:24,T. Nagar,Medium,Foggy,37.4,No,13.0402,80.2337,9
+2025-03-28,18:12:24,Mylapore,Medium,Rainy,35.0,Yes,13.0325,80.2684,14
+2025-03-28,18:33:24,Porur,Medium,Foggy,32.2,Yes,13.0359,80.1583,9
+2025-03-28,18:53:24,T. Nagar,High,Cloudy,36.6,Yes,13.0402,80.2337,34
+2025-03-28,19:23:24,Anna Nagar,Medium,Sunny,28.9,No,13.0853,80.2103,7
+2025-03-28,19:38:24,Sholinganallur,High,Rainy,29.0,Yes,12.8985,80.2273,27
+2025-03-28,19:47:24,Kodambakkam,Medium,Rainy,31.6,No,13.0528,80.2296,6
+2025-03-28,19:52:24,T. Nagar,Low,Sunny,35.0,No,13.0402,80.2337,5
+2025-03-28,20:13:24,Guindy,Low,Rainy,32.8,No,13.0079,80.2209,4
+2025-03-28,20:42:24,Anna Nagar,Low,Sunny,34.7,Yes,13.0853,80.2103,2
+2025-03-28,21:11:24,Mylapore,High,Cloudy,32.3,Yes,13.0325,80.2684,38
+2025-03-28,21:24:24,Porur,High,Sunny,37.3,Yes,13.0359,80.1583,30
+2025-03-28,21:39:24,Velachery,Low,Stormy,38.0,Yes,12.9766,80.2183,2
+2025-03-28,22:07:24,Sholinganallur,Low,Sunny,33.9,Yes,12.8985,80.2273,5
+2025-03-28,22:16:24,Anna Nagar,Medium,Rainy,32.3,No,13.0853,80.2103,8
+2025-03-28,22:22:24,Velachery,High,Foggy,37.5,Yes,12.9766,80.2183,45
+2025-03-28,22:36:24,Kodambakkam,Low,Sunny,39.8,No,13.0528,80.2296,0
+2025-03-28,22:57:24,Tambaram,High,Cloudy,31.1,Yes,12.9245,80.127,25
+2025-03-28,23:18:24,Mylapore,Medium,Cloudy,39.7,No,13.0325,80.2684,10
+2025-03-28,23:42:24,Guindy,Medium,Stormy,38.5,Yes,13.0079,80.2209,6
+2025-03-28,23:50:24,T. Nagar,High,Stormy,35.5,Yes,13.0402,80.2337,36
+2025-03-29,00:00:24,Porur,Medium,Cloudy,27.5,No,13.0359,80.1583,8
+2025-03-29,00:15:24,Velachery,Low,Rainy,26.3,No,12.9766,80.2183,3
+2025-03-29,00:22:24,Mylapore,High,Foggy,29.5,Yes,13.0325,80.2684,24
+2025-03-29,00:32:24,Tambaram,High,Sunny,32.6,Yes,12.9245,80.127,24
+2025-03-29,00:39:24,Anna Nagar,Medium,Sunny,25.6,Yes,13.0853,80.2103,10
+2025-03-29,01:03:24,Anna Nagar,Medium,Sunny,27.1,No,13.0853,80.2103,10
+2025-03-29,01:18:24,Porur,Medium,Sunny,37.4,No,13.0359,80.1583,11
+2025-03-29,01:34:24,Tambaram,Medium,Foggy,38.8,No,12.9245,80.127,14
+2025-03-29,01:41:24,Tambaram,Medium,Cloudy,26.3,Yes,12.9245,80.127,10
+2025-03-29,02:08:24,Guindy,Medium,Stormy,36.6,No,13.0079,80.2209,9
+2025-03-29,02:25:24,Adyar,Medium,Sunny,35.9,No,13.0067,80.2554,10
+2025-03-29,02:50:24,Porur,Medium,Rainy,29.1,Yes,13.0359,80.1583,13
+2025-03-29,03:02:24,Kodambakkam,High,Stormy,26.3,Yes,13.0528,80.2296,28
+2025-03-29,03:14:24,Adyar,High,Foggy,36.3,Yes,13.0067,80.2554,16
+2025-03-29,03:40:24,Sholinganallur,High,Sunny,31.7,Yes,12.8985,80.2273,45
+2025-03-29,03:47:24,Anna Nagar,High,Sunny,28.6,Yes,13.0853,80.2103,26
+2025-03-29,03:57:24,Porur,Medium,Cloudy,31.4,Yes,13.0359,80.1583,14
+2025-03-29,04:22:24,T. Nagar,Low,Rainy,27.5,No,13.0402,80.2337,2
+2025-03-29,04:50:24,Velachery,Low,Rainy,29.3,Yes,12.9766,80.2183,5
+2025-03-29,05:16:24,Mylapore,High,Rainy,38.8,Yes,13.0325,80.2684,22
+2025-03-29,05:42:24,Tambaram,Low,Sunny,25.1,Yes,12.9245,80.127,1
+2025-03-29,05:48:24,Mylapore,Medium,Cloudy,39.7,Yes,13.0325,80.2684,12
+2025-03-29,06:09:24,Sholinganallur,Medium,Foggy,26.1,No,12.8985,80.2273,7
+2025-03-29,06:31:24,Adyar,Medium,Rainy,25.8,Yes,13.0067,80.2554,14
+2025-03-29,06:39:24,Tambaram,Low,Stormy,27.8,No,12.9245,80.127,1
+2025-03-29,06:57:24,Kodambakkam,High,Stormy,34.9,Yes,13.0528,80.2296,21
+2025-03-29,07:16:24,Guindy,Medium,Sunny,35.7,Yes,13.0079,80.2209,5
+2025-03-29,07:31:24,Velachery,Medium,Foggy,34.6,No,12.9766,80.2183,6
+2025-03-29,07:59:24,T. Nagar,Low,Cloudy,28.5,Yes,13.0402,80.2337,5
+2025-03-29,08:11:24,Kodambakkam,Low,Stormy,32.3,No,13.0528,80.2296,2
+2025-03-29,08:30:24,Porur,Medium,Rainy,34.6,Yes,13.0359,80.1583,15
+2025-03-29,08:49:24,T. Nagar,Low,Rainy,26.0,No,13.0402,80.2337,3
+2025-03-29,09:03:24,Sholinganallur,Medium,Stormy,30.6,Yes,12.8985,80.2273,14
+2025-03-29,09:18:24,Guindy,High,Sunny,39.3,Yes,13.0079,80.2209,37
+2025-03-29,09:33:24,Velachery,High,Stormy,29.2,Yes,12.9766,80.2183,36
+2025-03-29,09:40:24,Porur,Medium,Rainy,30.7,No,13.0359,80.1583,11
+2025-03-29,10:00:24,Porur,High,Stormy,30.5,Yes,13.0359,80.1583,29
+2025-03-29,10:17:24,Porur,Low,Cloudy,34.8,No,13.0359,80.1583,1
+2025-03-29,10:34:24,Anna Nagar,Medium,Sunny,33.6,No,13.0853,80.2103,13
+2025-03-29,11:01:24,Mylapore,High,Rainy,35.7,Yes,13.0325,80.2684,20
+2025-03-29,11:20:24,Mylapore,Low,Cloudy,31.1,Yes,13.0325,80.2684,1
+2025-03-29,11:42:24,Velachery,Low,Cloudy,39.3,No,12.9766,80.2183,3
+2025-03-29,12:05:24,Sholinganallur,Medium,Stormy,30.4,No,12.8985,80.2273,8
+2025-03-29,12:33:24,Adyar,Low,Stormy,33.4,Yes,13.0067,80.2554,2
+2025-03-29,12:41:24,T. Nagar,High,Foggy,39.7,Yes,13.0402,80.2337,20
+2025-03-29,12:59:24,Sholinganallur,Medium,Rainy,30.6,Yes,12.8985,80.2273,7
+2025-03-29,13:16:24,Tambaram,High,Rainy,30.2,Yes,12.9245,80.127,22
+2025-03-29,13:21:24,Porur,Medium,Stormy,29.3,No,13.0359,80.1583,9
+2025-03-29,13:50:24,Porur,Low,Stormy,39.0,Yes,13.0359,80.1583,3
+2025-03-29,14:14:24,T. Nagar,Low,Cloudy,32.7,Yes,13.0402,80.2337,1
+2025-03-29,14:42:24,Adyar,High,Cloudy,29.5,Yes,13.0067,80.2554,42
+2025-03-29,14:54:24,Adyar,High,Cloudy,28.2,Yes,13.0067,80.2554,40
+2025-03-29,15:02:24,Mylapore,Low,Rainy,35.5,Yes,13.0325,80.2684,3
+2025-03-29,15:28:24,Guindy,Low,Cloudy,38.3,No,13.0079,80.2209,1
+2025-03-29,15:52:24,Tambaram,Medium,Rainy,28.6,No,12.9245,80.127,11
+2025-03-29,16:08:24,Sholinganallur,Medium,Foggy,26.0,Yes,12.8985,80.2273,13
+2025-03-29,16:20:24,Guindy,High,Stormy,33.3,Yes,13.0079,80.2209,37
+2025-03-29,16:32:24,Velachery,High,Sunny,37.7,Yes,12.9766,80.2183,26
+2025-03-29,16:54:24,Adyar,Medium,Stormy,28.6,Yes,13.0067,80.2554,8
+2025-03-29,17:01:24,Velachery,High,Sunny,38.9,Yes,12.9766,80.2183,43
+2025-03-29,17:10:24,Anna Nagar,Low,Cloudy,34.6,Yes,13.0853,80.2103,1
+2025-03-29,17:22:24,Sholinganallur,Low,Cloudy,32.1,No,12.8985,80.2273,5
+2025-03-29,17:38:24,Kodambakkam,Low,Stormy,32.8,No,13.0528,80.2296,1
+2025-03-29,18:07:24,Adyar,Medium,Cloudy,33.5,Yes,13.0067,80.2554,8
+2025-03-29,18:28:24,Tambaram,Medium,Sunny,35.7,No,12.9245,80.127,6
+2025-03-29,18:52:24,Velachery,High,Sunny,28.6,Yes,12.9766,80.2183,15
+2025-03-29,18:58:24,Guindy,Medium,Cloudy,25.4,Yes,13.0079,80.2209,8
+2025-03-29,19:23:24,Adyar,Medium,Stormy,38.7,No,13.0067,80.2554,6
+2025-03-29,19:31:24,Tambaram,Medium,Foggy,30.9,No,12.9245,80.127,13
+2025-03-29,19:38:24,Guindy,Medium,Sunny,30.6,No,13.0079,80.2209,15
+2025-03-29,19:58:24,Kodambakkam,Medium,Cloudy,35.0,Yes,13.0528,80.2296,7
+2025-03-29,20:26:24,Adyar,High,Stormy,33.2,Yes,13.0067,80.2554,28
+2025-03-29,20:44:24,Anna Nagar,High,Stormy,35.7,Yes,13.0853,80.2103,29
